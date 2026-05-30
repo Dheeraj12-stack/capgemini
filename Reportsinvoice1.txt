@@ -1,4 +1,0 @@
-Invoice Number: INV1001
-Vendor: ABC Technologies
-Date: 2026-05-29
-Amount: 15000
