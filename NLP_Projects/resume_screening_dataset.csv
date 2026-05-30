@@ -1,0 +1,1001 @@
+ResumeID,Skills,Experience,Education,JobRole,Selected
+1,"NLP, Tableau, Python, Deep Learning, Machine Learning, Excel",7,B.Sc,Machine Learning Engineer,1
+2,"Machine Learning, Excel, Tableau, SQL, Python, Java",0,M.Sc,Business Analyst,0
+3,"Excel, SQL, Deep Learning, NLP, Java",2,B.Sc,Business Analyst,0
+4,"Machine Learning, Python, Java, Data Analysis",6,B.Sc,Business Analyst,1
+5,"Java, Python, Excel",0,M.Sc,Machine Learning Engineer,0
+6,"Python, SQL, Tableau, Excel",2,M.Tech,Data Scientist,1
+7,"Data Analysis, Python, Deep Learning, Excel",2,M.Tech,Business Analyst,1
+8,"Power BI, Tableau, NLP, Python",2,M.Sc,Machine Learning Engineer,1
+9,"Excel, Deep Learning, Java, Power BI, Python",5,B.Sc,Data Scientist,1
+10,"Java, Python, Power BI, Machine Learning, SQL, Data Analysis",0,M.Tech,Machine Learning Engineer,0
+11,"NLP, Power BI, Tableau",9,M.Tech,Machine Learning Engineer,0
+12,"Tableau, NLP, Machine Learning, Deep Learning, Data Analysis, Python",9,B.Sc,Business Analyst,1
+13,"Power BI, Java, SQL, Excel, Deep Learning",7,M.Sc,Business Analyst,0
+14,"Data Analysis, Python, Deep Learning, Tableau, Excel",2,B.Sc,Business Analyst,1
+15,"Tableau, Data Analysis, Deep Learning",10,B.Tech,Data Scientist,0
+16,"Python, Java, Power BI",3,M.Sc,Business Analyst,1
+17,"Java, Machine Learning, SQL",2,M.Tech,Machine Learning Engineer,1
+18,"Machine Learning, SQL, NLP, Deep Learning",8,M.Tech,Data Analyst,1
+19,"Java, Excel, Data Analysis, Tableau, Deep Learning, SQL",2,M.Sc,Data Scientist,0
+20,"Python, SQL, NLP, Machine Learning",0,B.Tech,Business Analyst,0
+21,"Deep Learning, Power BI, Excel, Python",9,B.Tech,Business Analyst,1
+22,"NLP, Machine Learning, Deep Learning, Python, Data Analysis",9,M.Tech,Business Analyst,1
+23,"Java, Data Analysis, Machine Learning, SQL",10,M.Tech,Data Analyst,1
+24,"Deep Learning, Machine Learning, Tableau, Java, NLP, Excel",4,B.Sc,Machine Learning Engineer,1
+25,"Excel, Python, Deep Learning, Java, NLP",10,B.Sc,Machine Learning Engineer,1
+26,"Deep Learning, NLP, Java, Power BI",10,M.Sc,Machine Learning Engineer,0
+27,"Power BI, Tableau, Data Analysis",6,M.Sc,Machine Learning Engineer,0
+28,"Tableau, Power BI, Java, NLP, SQL, Excel",10,B.Tech,Data Scientist,0
+29,"Tableau, NLP, Power BI, Java, Data Analysis",8,M.Tech,Business Analyst,0
+30,"NLP, Java, Tableau, Python, Data Analysis, Excel",0,M.Sc,Data Scientist,0
+31,"Power BI, NLP, Tableau, Data Analysis",7,M.Sc,Data Scientist,0
+32,"Data Analysis, Deep Learning, Python",2,B.Tech,Data Scientist,1
+33,"Python, Power BI, SQL, Deep Learning",2,M.Tech,Business Analyst,1
+34,"Machine Learning, Python, Excel, SQL, Power BI, Java",8,B.Sc,Data Scientist,1
+35,"Python, Machine Learning, Java, Power BI, Excel",0,B.Sc,Data Scientist,0
+36,"Data Analysis, NLP, Power BI",6,M.Tech,Data Analyst,0
+37,"Excel, SQL, Data Analysis, NLP, Python, Deep Learning",3,M.Sc,Data Analyst,1
+38,"Java, Data Analysis, Excel",3,M.Tech,Data Analyst,0
+39,"NLP, Excel, Python",6,M.Tech,Data Analyst,1
+40,"NLP, Power BI, Tableau, Machine Learning, Deep Learning, Data Analysis",9,B.Sc,Business Analyst,1
+41,"Java, Python, Machine Learning, Deep Learning, Tableau, NLP",4,B.Sc,Business Analyst,1
+42,"Java, NLP, Data Analysis",8,B.Sc,Data Analyst,0
+43,"Machine Learning, Data Analysis, SQL",5,M.Sc,Machine Learning Engineer,1
+44,"Excel, Data Analysis, NLP, Power BI, SQL, Python",2,M.Tech,Business Analyst,1
+45,"Data Analysis, Deep Learning, Machine Learning",2,M.Sc,Data Analyst,1
+46,"Deep Learning, NLP, Power BI, Excel, Java",1,M.Sc,Machine Learning Engineer,0
+47,"NLP, Tableau, Python, Power BI, Java, Excel",4,B.Sc,Data Analyst,1
+48,"Python, Tableau, Data Analysis, Machine Learning",10,M.Tech,Business Analyst,1
+49,"Power BI, Python, Java",9,B.Tech,Machine Learning Engineer,1
+50,"Power BI, Data Analysis, Python, SQL",9,M.Sc,Data Scientist,1
+51,"NLP, Excel, Power BI, SQL, Data Analysis, Java",3,M.Tech,Data Scientist,0
+52,"Deep Learning, NLP, Tableau, Java, SQL",7,M.Sc,Machine Learning Engineer,0
+53,"Data Analysis, Java, Tableau, Machine Learning, Power BI, NLP",6,B.Tech,Data Scientist,1
+54,"Power BI, Data Analysis, SQL, Machine Learning",5,M.Sc,Business Analyst,1
+55,"Excel, Data Analysis, Machine Learning, Deep Learning, Java",0,M.Tech,Data Analyst,0
+56,"Deep Learning, Power BI, Java",2,M.Sc,Data Scientist,0
+57,"Machine Learning, SQL, Java, NLP",6,M.Tech,Business Analyst,1
+58,"Python, Excel, Deep Learning, Java",6,M.Tech,Data Analyst,1
+59,"Python, Deep Learning, SQL, Excel, Tableau",8,B.Sc,Machine Learning Engineer,1
+60,"Machine Learning, Power BI, Python, Data Analysis",6,M.Tech,Data Analyst,1
+61,"Data Analysis, NLP, Excel",0,B.Sc,Data Scientist,0
+62,"NLP, Excel, Tableau",2,M.Tech,Data Scientist,0
+63,"NLP, Java, Excel, Data Analysis, SQL",2,M.Tech,Data Analyst,0
+64,"Tableau, SQL, Deep Learning, NLP, Data Analysis, Machine Learning",8,M.Tech,Data Scientist,1
+65,"Machine Learning, Tableau, Excel, SQL, Power BI",4,M.Sc,Business Analyst,1
+66,"Python, Deep Learning, Java, Machine Learning, Power BI, SQL",9,M.Sc,Data Scientist,1
+67,"Java, Deep Learning, NLP, Machine Learning, Data Analysis",7,M.Sc,Machine Learning Engineer,1
+68,"Excel, Machine Learning, Java, Power BI, Python",3,B.Sc,Machine Learning Engineer,1
+69,"Data Analysis, NLP, Excel, Machine Learning, SQL, Power BI",10,B.Tech,Business Analyst,1
+70,"Java, Excel, Deep Learning",7,M.Tech,Data Analyst,0
+71,"NLP, Power BI, Tableau, Python, Java",3,B.Tech,Business Analyst,1
+72,"Power BI, NLP, Tableau, Python, Machine Learning, Java",2,M.Tech,Business Analyst,1
+73,"NLP, Excel, Python, Data Analysis, Power BI",2,M.Tech,Machine Learning Engineer,1
+74,"SQL, Machine Learning, Tableau, Data Analysis, Java",10,M.Tech,Business Analyst,1
+75,"Data Analysis, Tableau, Power BI, Python, SQL",3,B.Tech,Data Scientist,1
+76,"Deep Learning, Tableau, Power BI",8,B.Sc,Machine Learning Engineer,0
+77,"Python, Machine Learning, Power BI, Deep Learning, Excel",1,B.Tech,Data Analyst,0
+78,"Data Analysis, Python, Machine Learning, NLP, Tableau",1,M.Sc,Data Analyst,0
+79,"Data Analysis, Machine Learning, NLP",7,M.Sc,Data Analyst,1
+80,"Java, Deep Learning, SQL, Tableau, Data Analysis",9,M.Tech,Data Scientist,0
+81,"Machine Learning, Deep Learning, NLP",4,M.Sc,Machine Learning Engineer,1
+82,"Machine Learning, NLP, Power BI, Deep Learning, Data Analysis",6,B.Sc,Data Analyst,1
+83,"Data Analysis, Java, Power BI, Tableau",8,M.Sc,Machine Learning Engineer,0
+84,"Deep Learning, NLP, Python, Tableau, Power BI",2,B.Sc,Business Analyst,1
+85,"Power BI, Data Analysis, Java, Tableau, Deep Learning, SQL",2,M.Sc,Business Analyst,0
+86,"Machine Learning, Tableau, SQL, Data Analysis, Python, NLP",5,M.Tech,Data Analyst,1
+87,"Machine Learning, Deep Learning, Data Analysis, Python, SQL, Power BI",1,M.Tech,Data Scientist,0
+88,"Python, Deep Learning, NLP",1,M.Sc,Data Analyst,0
+89,"Excel, Java, Data Analysis, Power BI, SQL",3,M.Sc,Business Analyst,0
+90,"Data Analysis, Tableau, Excel, SQL, Java",1,M.Sc,Data Analyst,0
+91,"Python, Excel, Deep Learning, Java",7,B.Tech,Data Analyst,1
+92,"Java, NLP, Machine Learning, Excel, Data Analysis, Power BI",10,M.Tech,Business Analyst,1
+93,"Excel, Python, Java, NLP, Power BI, Deep Learning",7,M.Sc,Data Scientist,1
+94,"Data Analysis, Excel, SQL, Tableau, Power BI, Java",1,B.Sc,Data Analyst,0
+95,"Deep Learning, Data Analysis, Power BI, NLP, Tableau",1,B.Tech,Data Analyst,0
+96,"Data Analysis, Deep Learning, Tableau, Power BI, SQL, NLP",8,B.Tech,Machine Learning Engineer,0
+97,"Machine Learning, NLP, Tableau",5,B.Sc,Data Scientist,1
+98,"Excel, NLP, Power BI, Java, Python",5,M.Tech,Data Scientist,1
+99,"Python, Excel, Java, Tableau",4,B.Sc,Business Analyst,1
+100,"SQL, NLP, Deep Learning, Tableau",2,M.Sc,Data Scientist,0
+101,"Data Analysis, NLP, Java, Machine Learning, Power BI",7,M.Sc,Business Analyst,1
+102,"Excel, Python, Java",5,M.Sc,Data Analyst,1
+103,"Deep Learning, SQL, NLP, Machine Learning, Excel, Tableau",9,B.Tech,Data Scientist,1
+104,"Java, Data Analysis, SQL, Machine Learning, Deep Learning, Power BI",8,M.Sc,Machine Learning Engineer,1
+105,"NLP, Python, Machine Learning, Power BI, Data Analysis, Java",6,B.Tech,Data Analyst,1
+106,"Tableau, Data Analysis, Machine Learning, Python, Excel, Deep Learning",10,M.Tech,Data Analyst,1
+107,"SQL, Deep Learning, Python, Excel, Java",8,B.Sc,Data Scientist,1
+108,"NLP, Java, Data Analysis, Machine Learning, SQL, Tableau",2,B.Tech,Machine Learning Engineer,1
+109,"Java, Data Analysis, SQL, NLP, Python",7,B.Sc,Machine Learning Engineer,1
+110,"Power BI, Machine Learning, Excel, Tableau",8,M.Tech,Data Scientist,1
+111,"SQL, Machine Learning, NLP, Deep Learning, Power BI, Python",4,B.Tech,Data Analyst,1
+112,"Data Analysis, Power BI, Machine Learning, NLP, Python",3,M.Sc,Machine Learning Engineer,1
+113,"SQL, Deep Learning, Java",9,M.Sc,Business Analyst,0
+114,"Python, Power BI, Tableau",9,B.Sc,Machine Learning Engineer,1
+115,"Deep Learning, Excel, SQL",5,B.Sc,Business Analyst,0
+116,"Power BI, Data Analysis, Machine Learning, NLP, Tableau",2,B.Sc,Machine Learning Engineer,1
+117,"SQL, Power BI, Data Analysis",0,M.Sc,Data Scientist,0
+118,"SQL, Python, Java, Machine Learning, Excel",4,B.Sc,Data Scientist,1
+119,"SQL, Machine Learning, Java, Tableau, Deep Learning",0,B.Sc,Machine Learning Engineer,0
+120,"Deep Learning, Data Analysis, Java, Excel, NLP",1,B.Tech,Data Analyst,0
+121,"Python, Machine Learning, Power BI, Excel",1,B.Tech,Data Analyst,0
+122,"Tableau, NLP, Python, Data Analysis, Deep Learning",5,M.Sc,Data Scientist,1
+123,"SQL, Excel, Power BI, Tableau, Java",10,M.Sc,Machine Learning Engineer,0
+124,"Power BI, Deep Learning, Machine Learning, Tableau, SQL, Java",6,B.Tech,Data Scientist,1
+125,"Deep Learning, Power BI, Data Analysis, Machine Learning",1,B.Sc,Data Scientist,0
+126,"Tableau, Excel, Python, SQL, Power BI, Deep Learning",10,B.Sc,Data Scientist,1
+127,"Tableau, Data Analysis, Python, Power BI, Deep Learning",7,B.Sc,Machine Learning Engineer,1
+128,"Machine Learning, NLP, Data Analysis, Deep Learning",8,B.Sc,Data Scientist,1
+129,"Deep Learning, NLP, Tableau",0,M.Tech,Data Analyst,0
+130,"Python, Excel, Java",3,B.Sc,Machine Learning Engineer,1
+131,"Python, Power BI, Tableau",5,M.Tech,Data Analyst,1
+132,"Excel, Python, NLP, Machine Learning",3,B.Tech,Data Scientist,1
+133,"Python, Deep Learning, Excel",1,B.Sc,Business Analyst,0
+134,"Data Analysis, Tableau, Python, SQL, Machine Learning",8,B.Sc,Business Analyst,1
+135,"Python, Tableau, Deep Learning, SQL, Power BI, Data Analysis",4,B.Tech,Machine Learning Engineer,1
+136,"NLP, Data Analysis, Excel, Java, SQL",1,M.Sc,Data Scientist,0
+137,"Machine Learning, Data Analysis, NLP, Excel, Tableau",2,M.Sc,Data Scientist,1
+138,"Python, Deep Learning, SQL",3,M.Tech,Machine Learning Engineer,1
+139,"Python, Data Analysis, Tableau, Power BI",1,B.Sc,Business Analyst,0
+140,"Deep Learning, Tableau, Java",7,B.Tech,Business Analyst,0
+141,"NLP, Power BI, Deep Learning",8,B.Sc,Data Analyst,0
+142,"Deep Learning, SQL, Data Analysis, NLP, Power BI, Excel",2,M.Tech,Data Analyst,0
+143,"Deep Learning, Excel, SQL",2,B.Sc,Business Analyst,0
+144,"Tableau, Machine Learning, Python",10,B.Sc,Business Analyst,1
+145,"Python, Tableau, Excel, Data Analysis",8,M.Tech,Business Analyst,1
+146,"Excel, Java, NLP, SQL, Python, Data Analysis",5,M.Sc,Data Scientist,1
+147,"SQL, Java, Data Analysis",8,B.Tech,Machine Learning Engineer,0
+148,"NLP, Python, Java, Excel",4,B.Tech,Machine Learning Engineer,1
+149,"Deep Learning, SQL, Data Analysis",9,B.Tech,Machine Learning Engineer,0
+150,"Java, NLP, Tableau",7,B.Sc,Business Analyst,0
+151,"Machine Learning, Excel, SQL, Data Analysis, Power BI, Java",6,B.Sc,Data Analyst,1
+152,"NLP, SQL, Excel, Machine Learning",3,M.Sc,Data Analyst,1
+153,"Machine Learning, Java, SQL",9,M.Tech,Machine Learning Engineer,1
+154,"SQL, Data Analysis, Power BI",8,M.Tech,Data Scientist,0
+155,"SQL, Java, NLP, Excel, Machine Learning",0,B.Tech,Business Analyst,0
+156,"Java, Tableau, Data Analysis, NLP, Python, SQL",7,M.Tech,Business Analyst,1
+157,"Deep Learning, SQL, Tableau, Java, Power BI",3,B.Tech,Data Analyst,0
+158,"Machine Learning, SQL, Python, Excel",7,B.Tech,Business Analyst,1
+159,"Deep Learning, Power BI, Python, NLP",10,M.Tech,Machine Learning Engineer,1
+160,"NLP, Excel, Power BI, Python, Deep Learning, Java",10,M.Sc,Data Analyst,1
+161,"Data Analysis, Deep Learning, Python, Power BI",9,M.Sc,Business Analyst,1
+162,"SQL, Tableau, Java, Data Analysis",8,B.Sc,Machine Learning Engineer,0
+163,"Deep Learning, Power BI, Java, Excel",8,B.Tech,Machine Learning Engineer,0
+164,"Machine Learning, Java, Data Analysis",0,M.Sc,Data Analyst,0
+165,"Power BI, Machine Learning, Data Analysis",10,B.Sc,Data Scientist,1
+166,"Python, Power BI, Excel, NLP",10,B.Sc,Business Analyst,1
+167,"Data Analysis, Python, Tableau, NLP, Excel",8,M.Sc,Data Analyst,1
+168,"Deep Learning, Tableau, Power BI, Machine Learning, Data Analysis",9,M.Tech,Data Scientist,1
+169,"Python, Data Analysis, Java, Deep Learning",6,B.Sc,Data Analyst,1
+170,"Machine Learning, Deep Learning, Power BI, Java",5,M.Tech,Data Analyst,1
+171,"Python, Tableau, Machine Learning",9,B.Sc,Data Scientist,1
+172,"Deep Learning, Excel, SQL, Machine Learning",10,B.Tech,Business Analyst,1
+173,"Tableau, Machine Learning, NLP, Deep Learning, Data Analysis",4,M.Sc,Data Scientist,1
+174,"Data Analysis, Java, Deep Learning, Machine Learning, NLP, Tableau",3,M.Tech,Data Analyst,1
+175,"Excel, Power BI, NLP, Tableau, Data Analysis, SQL",5,M.Sc,Data Analyst,0
+176,"SQL, Python, Java",3,M.Sc,Business Analyst,1
+177,"Deep Learning, SQL, NLP, Java",6,M.Sc,Machine Learning Engineer,0
+178,"SQL, Tableau, Excel, Power BI",6,M.Tech,Machine Learning Engineer,0
+179,"Data Analysis, NLP, Tableau, Python, SQL, Machine Learning",8,M.Tech,Data Analyst,1
+180,"Excel, Machine Learning, Power BI, Data Analysis, NLP",2,B.Sc,Data Analyst,1
+181,"Python, Machine Learning, SQL, Excel",2,B.Tech,Data Scientist,1
+182,"Data Analysis, Deep Learning, Power BI",6,B.Tech,Machine Learning Engineer,0
+183,"Data Analysis, Power BI, Java, Excel, Deep Learning, Python",10,B.Sc,Business Analyst,1
+184,"NLP, Java, Machine Learning, Python, SQL, Tableau",1,M.Sc,Machine Learning Engineer,0
+185,"Excel, Tableau, Machine Learning",1,B.Tech,Data Scientist,0
+186,"NLP, Java, SQL, Deep Learning, Machine Learning, Tableau",0,B.Sc,Business Analyst,0
+187,"Tableau, NLP, Deep Learning, Java, Power BI",7,M.Sc,Business Analyst,0
+188,"Java, SQL, Power BI, NLP, Machine Learning",9,B.Tech,Machine Learning Engineer,1
+189,"Excel, Java, Tableau",2,M.Sc,Data Scientist,0
+190,"SQL, Data Analysis, Python, Machine Learning",0,M.Tech,Business Analyst,0
+191,"Python, NLP, Data Analysis, SQL, Tableau",6,M.Tech,Data Analyst,1
+192,"Tableau, Excel, Machine Learning, SQL",4,M.Sc,Data Analyst,1
+193,"Python, SQL, Excel, Java",10,B.Sc,Business Analyst,1
+194,"Power BI, Tableau, Deep Learning, Data Analysis",2,B.Tech,Machine Learning Engineer,0
+195,"Data Analysis, NLP, Java, Deep Learning, Tableau",9,M.Tech,Data Analyst,0
+196,"Java, Power BI, SQL, Data Analysis, Python, NLP",4,M.Sc,Data Analyst,1
+197,"Power BI, Excel, Data Analysis",5,M.Tech,Business Analyst,0
+198,"SQL, Data Analysis, Excel, Deep Learning, Machine Learning",10,M.Sc,Machine Learning Engineer,1
+199,"Power BI, Machine Learning, Excel, NLP",9,M.Sc,Data Analyst,1
+200,"Excel, Java, SQL, NLP, Tableau, Python",2,B.Tech,Data Scientist,1
+201,"SQL, Tableau, Power BI, Data Analysis",2,M.Sc,Data Scientist,0
+202,"Deep Learning, Excel, Java, Power BI, Tableau, SQL",1,M.Tech,Data Scientist,0
+203,"SQL, Python, Power BI, NLP, Deep Learning",2,M.Sc,Data Analyst,1
+204,"Power BI, Excel, Deep Learning",1,B.Sc,Data Scientist,0
+205,"SQL, Deep Learning, Data Analysis",3,B.Sc,Data Analyst,0
+206,"Power BI, Python, Machine Learning",6,M.Sc,Machine Learning Engineer,1
+207,"Deep Learning, Machine Learning, SQL, Data Analysis",0,B.Tech,Business Analyst,0
+208,"Machine Learning, Data Analysis, Java",9,M.Sc,Business Analyst,1
+209,"Machine Learning, Python, NLP, Java, Deep Learning, Data Analysis",8,M.Tech,Data Analyst,1
+210,"Power BI, Java, Data Analysis, Tableau, SQL",10,M.Sc,Data Scientist,0
+211,"SQL, Excel, Power BI",0,M.Tech,Machine Learning Engineer,0
+212,"SQL, Java, Tableau",5,M.Tech,Business Analyst,0
+213,"Python, SQL, Machine Learning",9,M.Tech,Business Analyst,1
+214,"Power BI, Python, Deep Learning, Java, Tableau",4,B.Tech,Data Analyst,1
+215,"Tableau, Excel, SQL, Python, Java, Machine Learning",0,M.Sc,Data Scientist,0
+216,"Java, Excel, Machine Learning, Deep Learning, SQL, Data Analysis",1,B.Tech,Machine Learning Engineer,0
+217,"Power BI, Java, Python, Tableau, Data Analysis",7,B.Tech,Data Analyst,1
+218,"Power BI, Machine Learning, Python",9,B.Sc,Data Scientist,1
+219,"Deep Learning, NLP, Python, SQL, Power BI",7,B.Tech,Data Analyst,1
+220,"NLP, Java, Excel, Machine Learning, Power BI",3,B.Sc,Machine Learning Engineer,1
+221,"Tableau, Data Analysis, Java, Python, Deep Learning",0,M.Sc,Data Scientist,0
+222,"Data Analysis, Tableau, NLP, Java",0,M.Sc,Data Analyst,0
+223,"SQL, Python, Tableau, Java",8,M.Tech,Data Scientist,1
+224,"SQL, Deep Learning, Python, Power BI",10,B.Sc,Business Analyst,1
+225,"Machine Learning, Tableau, Excel, Deep Learning, Power BI, Data Analysis",6,B.Sc,Machine Learning Engineer,1
+226,"Deep Learning, Python, Machine Learning, Power BI",3,B.Sc,Data Scientist,1
+227,"Java, Data Analysis, Power BI",9,M.Tech,Data Analyst,0
+228,"NLP, Deep Learning, Power BI",4,B.Sc,Business Analyst,0
+229,"Excel, Tableau, NLP, Deep Learning, Java, Machine Learning",8,M.Sc,Machine Learning Engineer,1
+230,"Excel, Python, Java, Power BI, Machine Learning, SQL",9,M.Tech,Data Scientist,1
+231,"Python, Java, Deep Learning, NLP, Data Analysis",7,B.Sc,Machine Learning Engineer,1
+232,"NLP, Deep Learning, Java, Tableau, SQL",10,M.Sc,Data Scientist,0
+233,"SQL, Data Analysis, Tableau, NLP, Power BI",6,B.Sc,Data Scientist,0
+234,"NLP, Java, Tableau, SQL, Excel",8,B.Sc,Data Analyst,0
+235,"Tableau, Machine Learning, SQL",2,M.Sc,Data Scientist,1
+236,"Data Analysis, Excel, Python",5,M.Sc,Data Scientist,1
+237,"Deep Learning, Machine Learning, Excel",2,B.Tech,Data Analyst,1
+238,"SQL, NLP, Power BI, Machine Learning",1,B.Tech,Data Scientist,0
+239,"SQL, Data Analysis, Java, NLP, Deep Learning",2,B.Sc,Data Scientist,0
+240,"SQL, Excel, Data Analysis, NLP, Python, Java",6,M.Sc,Data Scientist,1
+241,"Machine Learning, Excel, Data Analysis, Tableau",2,B.Sc,Data Analyst,1
+242,"Data Analysis, Power BI, NLP, Java, Deep Learning, Python",10,M.Tech,Machine Learning Engineer,1
+243,"Machine Learning, Python, NLP",7,B.Sc,Machine Learning Engineer,1
+244,"NLP, Excel, Machine Learning",6,M.Tech,Business Analyst,1
+245,"Machine Learning, Power BI, Deep Learning",8,B.Tech,Data Analyst,1
+246,"Tableau, Power BI, Deep Learning, Machine Learning, NLP",1,M.Sc,Business Analyst,0
+247,"Tableau, NLP, Java, Deep Learning",6,B.Tech,Data Analyst,0
+248,"Excel, Deep Learning, NLP, Python, Java, Tableau",5,M.Sc,Data Analyst,1
+249,"Machine Learning, Deep Learning, Tableau, Python",2,B.Tech,Data Analyst,1
+250,"Power BI, Deep Learning, Machine Learning, Data Analysis",10,M.Sc,Data Analyst,1
+251,"Python, Java, Data Analysis, NLP, SQL",7,M.Tech,Data Scientist,1
+252,"SQL, Tableau, Machine Learning, Deep Learning, Java",6,M.Tech,Data Scientist,1
+253,"Excel, Data Analysis, NLP",4,M.Tech,Data Scientist,0
+254,"Excel, Machine Learning, Java, Data Analysis",1,B.Tech,Machine Learning Engineer,0
+255,"Power BI, Deep Learning, NLP, SQL, Tableau, Python",8,M.Sc,Data Analyst,1
+256,"Machine Learning, Java, Excel, Python, Tableau, NLP",1,B.Sc,Data Analyst,0
+257,"Deep Learning, SQL, Tableau",6,B.Tech,Business Analyst,0
+258,"Python, SQL, Machine Learning, Power BI, Java",8,M.Sc,Data Scientist,1
+259,"Tableau, Data Analysis, Power BI, SQL, Deep Learning, Python",3,M.Tech,Data Analyst,1
+260,"Java, SQL, Power BI, Excel, Data Analysis, Deep Learning",6,M.Tech,Data Analyst,0
+261,"Python, Excel, Tableau, Data Analysis, Java",10,M.Sc,Business Analyst,1
+262,"Excel, Machine Learning, SQL, Python, Power BI, Java",3,B.Sc,Data Analyst,1
+263,"Java, NLP, Python, SQL, Tableau",3,M.Sc,Data Analyst,1
+264,"SQL, Power BI, Machine Learning, Python, Excel, Java",3,M.Tech,Business Analyst,1
+265,"SQL, Java, Python",8,M.Tech,Data Analyst,1
+266,"Excel, Power BI, SQL, Tableau",1,M.Tech,Business Analyst,0
+267,"Excel, Power BI, Tableau",7,B.Tech,Data Scientist,0
+268,"Tableau, Excel, Data Analysis",7,B.Sc,Machine Learning Engineer,0
+269,"Python, NLP, Data Analysis, SQL",1,B.Tech,Data Scientist,0
+270,"Python, Tableau, SQL, Deep Learning, Java, NLP",0,M.Tech,Business Analyst,0
+271,"Deep Learning, Excel, NLP",6,M.Sc,Business Analyst,0
+272,"Tableau, Java, Python, NLP, Power BI, SQL",4,M.Sc,Machine Learning Engineer,1
+273,"Data Analysis, Deep Learning, NLP, Java, Excel, Power BI",7,B.Tech,Data Scientist,0
+274,"Data Analysis, Python, Deep Learning, NLP, Power BI, SQL",8,B.Sc,Business Analyst,1
+275,"Tableau, Java, Machine Learning, Excel, Data Analysis, Deep Learning",3,M.Tech,Business Analyst,1
+276,"SQL, Machine Learning, Python, Java",1,M.Tech,Machine Learning Engineer,0
+277,"Excel, SQL, Tableau, NLP",2,M.Tech,Business Analyst,0
+278,"Tableau, SQL, Python, Machine Learning, Java, Excel",6,B.Tech,Data Scientist,1
+279,"Machine Learning, Power BI, Deep Learning, Data Analysis",7,B.Tech,Data Scientist,1
+280,"Excel, SQL, Power BI",0,M.Tech,Machine Learning Engineer,0
+281,"NLP, Excel, Machine Learning, Tableau",10,B.Sc,Business Analyst,1
+282,"Machine Learning, Data Analysis, Power BI, Excel",1,M.Tech,Data Analyst,0
+283,"Data Analysis, Tableau, SQL, Excel",0,B.Sc,Data Scientist,0
+284,"Machine Learning, Data Analysis, Tableau, Python, SQL",9,M.Sc,Data Analyst,1
+285,"Java, NLP, Deep Learning, Power BI",4,B.Sc,Business Analyst,0
+286,"Tableau, NLP, Deep Learning, Power BI, Java",9,M.Tech,Data Analyst,0
+287,"Data Analysis, Power BI, Java, Python, Excel",10,B.Tech,Data Scientist,1
+288,"Python, Data Analysis, Deep Learning, Java, Machine Learning, Excel",7,B.Tech,Business Analyst,1
+289,"Deep Learning, Data Analysis, NLP, Excel",0,B.Tech,Data Scientist,0
+290,"Excel, NLP, Data Analysis, Power BI, Machine Learning",9,B.Sc,Data Analyst,1
+291,"Power BI, Python, Machine Learning",2,B.Sc,Data Analyst,1
+292,"Data Analysis, Tableau, SQL",4,M.Tech,Data Analyst,0
+293,"NLP, Data Analysis, Deep Learning, SQL",7,M.Sc,Data Scientist,0
+294,"NLP, Excel, SQL, Deep Learning, Tableau, Machine Learning",10,M.Tech,Data Scientist,1
+295,"Machine Learning, Python, Data Analysis",8,B.Tech,Business Analyst,1
+296,"Deep Learning, Power BI, Data Analysis",10,B.Tech,Data Scientist,0
+297,"Power BI, Tableau, SQL",0,M.Sc,Data Analyst,0
+298,"Excel, Java, Data Analysis, Deep Learning, Tableau, Machine Learning",2,B.Sc,Machine Learning Engineer,1
+299,"Tableau, Excel, Java",10,M.Sc,Machine Learning Engineer,0
+300,"Power BI, Data Analysis, Python",8,B.Tech,Machine Learning Engineer,1
+301,"Tableau, Power BI, NLP, Java, Excel",3,B.Tech,Data Scientist,0
+302,"SQL, Python, Deep Learning, Machine Learning",4,B.Sc,Machine Learning Engineer,1
+303,"Deep Learning, Python, Machine Learning, Power BI, Data Analysis, Excel",9,B.Sc,Business Analyst,1
+304,"NLP, Tableau, Deep Learning, Power BI, SQL",6,M.Sc,Data Scientist,0
+305,"Machine Learning, Excel, Tableau, Deep Learning, Data Analysis",8,M.Tech,Data Analyst,1
+306,"Python, Machine Learning, Excel, NLP, Java",3,B.Sc,Data Analyst,1
+307,"Excel, Python, SQL, Data Analysis, Tableau, Deep Learning",9,B.Sc,Business Analyst,1
+308,"Machine Learning, SQL, Deep Learning, Python, Excel",1,B.Sc,Data Scientist,0
+309,"NLP, Tableau, Power BI, Excel, Python, SQL",3,B.Sc,Data Scientist,1
+310,"Tableau, Excel, Machine Learning, Power BI",8,M.Sc,Business Analyst,1
+311,"Excel, NLP, Data Analysis, Power BI, Machine Learning, SQL",5,M.Tech,Data Scientist,1
+312,"Tableau, Machine Learning, Data Analysis",8,B.Sc,Data Scientist,1
+313,"Data Analysis, NLP, Machine Learning, Excel, Deep Learning",9,B.Sc,Business Analyst,1
+314,"Python, Data Analysis, Machine Learning, Java, NLP, Excel",6,M.Sc,Machine Learning Engineer,1
+315,"Python, Deep Learning, Java, Power BI",2,B.Sc,Machine Learning Engineer,1
+316,"Tableau, NLP, Python, SQL",8,B.Sc,Machine Learning Engineer,1
+317,"Tableau, Excel, Java, Power BI, Python, SQL",7,M.Sc,Data Scientist,1
+318,"NLP, Excel, Deep Learning, SQL",1,M.Tech,Machine Learning Engineer,0
+319,"Power BI, Machine Learning, Tableau, NLP, Deep Learning, Excel",3,B.Tech,Machine Learning Engineer,1
+320,"SQL, Excel, Machine Learning",3,B.Tech,Machine Learning Engineer,1
+321,"Python, Machine Learning, Deep Learning, Java, Tableau, Data Analysis",7,B.Sc,Data Scientist,1
+322,"Python, Excel, SQL, NLP, Java",2,B.Sc,Business Analyst,1
+323,"Machine Learning, Power BI, Data Analysis, Python",9,B.Tech,Machine Learning Engineer,1
+324,"Deep Learning, Data Analysis, Java, Excel, Machine Learning, NLP",5,B.Tech,Data Scientist,1
+325,"SQL, Deep Learning, NLP",4,M.Sc,Business Analyst,0
+326,"Machine Learning, Power BI, Java, Deep Learning, Data Analysis",10,B.Sc,Machine Learning Engineer,1
+327,"Deep Learning, Java, Data Analysis, Machine Learning, Tableau, Excel",7,B.Sc,Data Scientist,1
+328,"SQL, Excel, Data Analysis",8,B.Tech,Data Scientist,0
+329,"NLP, Machine Learning, Python, Java, SQL",6,M.Sc,Business Analyst,1
+330,"Deep Learning, Python, SQL, Machine Learning, Power BI",10,M.Sc,Machine Learning Engineer,1
+331,"SQL, Excel, Tableau, Java",1,B.Sc,Data Analyst,0
+332,"Data Analysis, Deep Learning, Python, Tableau, NLP",10,M.Tech,Business Analyst,1
+333,"Tableau, Machine Learning, NLP, SQL, Java",7,M.Tech,Data Scientist,1
+334,"Deep Learning, Tableau, Power BI, Java, Excel, SQL",4,B.Tech,Data Scientist,0
+335,"Excel, Deep Learning, SQL, NLP",8,M.Tech,Machine Learning Engineer,0
+336,"Data Analysis, Python, Deep Learning, Excel, Tableau",5,B.Tech,Machine Learning Engineer,1
+337,"Deep Learning, Python, Excel, Machine Learning, Tableau",3,M.Tech,Business Analyst,1
+338,"NLP, Python, Java, Data Analysis",7,M.Tech,Machine Learning Engineer,1
+339,"Data Analysis, Deep Learning, Java, NLP",2,B.Sc,Data Analyst,0
+340,"Deep Learning, Power BI, Data Analysis, Machine Learning, Tableau, NLP",4,B.Tech,Business Analyst,1
+341,"SQL, Excel, Deep Learning, Machine Learning, Power BI",0,M.Sc,Business Analyst,0
+342,"NLP, Python, Deep Learning, Java, Power BI, Tableau",0,B.Sc,Data Scientist,0
+343,"Tableau, Java, SQL",9,B.Sc,Data Analyst,0
+344,"Power BI, Data Analysis, Excel, Deep Learning, Tableau",4,M.Tech,Business Analyst,0
+345,"Deep Learning, Excel, NLP, Power BI, Java, Python",4,B.Sc,Data Scientist,1
+346,"Tableau, NLP, Python",6,M.Sc,Data Scientist,1
+347,"Excel, Machine Learning, SQL",8,M.Tech,Business Analyst,1
+348,"SQL, Excel, Tableau, Data Analysis, Power BI",4,M.Sc,Machine Learning Engineer,0
+349,"Power BI, Tableau, NLP, Data Analysis, SQL, Machine Learning",2,B.Tech,Business Analyst,1
+350,"Python, Deep Learning, Java, Data Analysis, Tableau",3,M.Sc,Machine Learning Engineer,1
+351,"Machine Learning, Java, Tableau, Excel, NLP, Data Analysis",3,M.Sc,Machine Learning Engineer,1
+352,"Java, NLP, Machine Learning, Deep Learning, SQL",9,M.Tech,Data Scientist,1
+353,"Java, NLP, Excel, Deep Learning, Machine Learning",7,B.Sc,Business Analyst,1
+354,"Excel, Java, Python, Tableau",5,B.Tech,Data Analyst,1
+355,"Python, Deep Learning, Excel, Data Analysis, Java, NLP",2,M.Sc,Data Scientist,1
+356,"SQL, Power BI, NLP, Machine Learning",0,B.Sc,Business Analyst,0
+357,"Java, Power BI, Deep Learning",3,M.Tech,Machine Learning Engineer,0
+358,"Java, Excel, SQL, NLP",3,B.Sc,Business Analyst,0
+359,"SQL, Tableau, Data Analysis, Python, NLP",2,M.Tech,Data Scientist,1
+360,"Data Analysis, Power BI, SQL, Machine Learning, Java",3,M.Tech,Business Analyst,1
+361,"Data Analysis, Tableau, NLP, Excel, Power BI, Deep Learning",2,B.Tech,Data Scientist,0
+362,"Machine Learning, Excel, SQL",2,B.Sc,Business Analyst,1
+363,"Tableau, Java, Deep Learning, Data Analysis, SQL",1,M.Sc,Data Scientist,0
+364,"Data Analysis, SQL, NLP, Machine Learning",3,M.Tech,Data Scientist,1
+365,"Deep Learning, Java, Python, Machine Learning",2,B.Sc,Data Scientist,1
+366,"NLP, Python, SQL, Excel, Deep Learning",3,B.Tech,Data Scientist,1
+367,"SQL, Tableau, Data Analysis, NLP, Machine Learning, Excel",4,M.Sc,Machine Learning Engineer,1
+368,"Tableau, Power BI, NLP",1,M.Tech,Data Scientist,0
+369,"Excel, Deep Learning, Java, Machine Learning, Power BI, SQL",0,B.Sc,Data Analyst,0
+370,"Machine Learning, Power BI, Python, SQL",4,M.Tech,Business Analyst,1
+371,"Java, SQL, NLP",8,B.Sc,Business Analyst,0
+372,"Java, NLP, Python, Power BI, Tableau, Data Analysis",6,B.Sc,Machine Learning Engineer,1
+373,"Machine Learning, NLP, Java, Power BI, Tableau, Data Analysis",2,B.Sc,Machine Learning Engineer,1
+374,"Data Analysis, Excel, Power BI, Machine Learning",1,B.Sc,Data Scientist,0
+375,"Deep Learning, Tableau, Power BI, NLP",4,B.Tech,Data Scientist,0
+376,"Data Analysis, SQL, Java, Tableau, NLP, Power BI",5,M.Sc,Data Scientist,0
+377,"Deep Learning, Machine Learning, Java",7,B.Sc,Data Scientist,1
+378,"Excel, Java, Machine Learning, Data Analysis",1,M.Tech,Machine Learning Engineer,0
+379,"Python, Data Analysis, Deep Learning, NLP",10,M.Sc,Data Analyst,1
+380,"Data Analysis, Python, Machine Learning",4,M.Sc,Data Analyst,1
+381,"Data Analysis, Tableau, Excel, Python, SQL, Deep Learning",1,B.Tech,Machine Learning Engineer,0
+382,"Data Analysis, NLP, Java, Excel",3,B.Sc,Data Scientist,0
+383,"Python, SQL, Java",2,M.Sc,Machine Learning Engineer,1
+384,"Deep Learning, Power BI, SQL, Tableau, NLP",7,M.Tech,Business Analyst,0
+385,"Tableau, Deep Learning, SQL, Excel, Python",1,M.Tech,Business Analyst,0
+386,"Machine Learning, Deep Learning, Excel, SQL",9,M.Tech,Data Analyst,1
+387,"Data Analysis, NLP, Deep Learning, Machine Learning",1,M.Sc,Data Scientist,0
+388,"Python, Deep Learning, SQL",4,B.Sc,Data Analyst,1
+389,"Machine Learning, Deep Learning, Power BI, Excel, Python, Tableau",7,M.Tech,Business Analyst,1
+390,"Power BI, NLP, Data Analysis, Tableau",3,B.Sc,Machine Learning Engineer,0
+391,"Tableau, Data Analysis, Deep Learning",6,M.Tech,Data Scientist,0
+392,"SQL, Excel, Python, Tableau",1,B.Sc,Machine Learning Engineer,0
+393,"Tableau, Power BI, Data Analysis, NLP, Deep Learning, SQL",2,B.Sc,Data Scientist,0
+394,"Tableau, Excel, Java, NLP, Data Analysis",10,M.Sc,Data Scientist,0
+395,"Tableau, Python, Machine Learning, Data Analysis, Excel, Java",7,B.Sc,Data Scientist,1
+396,"Data Analysis, Machine Learning, Power BI, NLP, Tableau, Excel",1,B.Tech,Data Analyst,0
+397,"SQL, Machine Learning, NLP, Excel",9,M.Sc,Data Scientist,1
+398,"Machine Learning, Excel, Python, SQL",4,B.Sc,Data Analyst,1
+399,"Java, Tableau, Power BI, Excel, NLP",8,B.Tech,Business Analyst,0
+400,"Data Analysis, Machine Learning, Java, Python, Power BI, SQL",2,M.Tech,Business Analyst,1
+401,"Power BI, Java, Machine Learning, Data Analysis",5,M.Tech,Machine Learning Engineer,1
+402,"Machine Learning, SQL, Data Analysis, Python",7,M.Sc,Machine Learning Engineer,1
+403,"Python, Data Analysis, SQL",6,M.Tech,Business Analyst,1
+404,"Java, Excel, Machine Learning, SQL, Python, Deep Learning",1,M.Sc,Business Analyst,0
+405,"NLP, Tableau, Excel, Java, Python",7,B.Tech,Data Analyst,1
+406,"SQL, Deep Learning, Excel, NLP, Machine Learning",3,B.Sc,Data Scientist,1
+407,"Tableau, SQL, Excel",2,B.Tech,Machine Learning Engineer,0
+408,"Python, Machine Learning, Power BI, Deep Learning, NLP",6,B.Tech,Data Analyst,1
+409,"Power BI, Java, Tableau, NLP",2,B.Tech,Data Analyst,0
+410,"Tableau, Machine Learning, Deep Learning, Power BI",7,M.Tech,Data Analyst,1
+411,"Java, Python, SQL, Power BI",7,M.Sc,Data Analyst,1
+412,"Machine Learning, Data Analysis, Power BI, Python",1,M.Tech,Data Scientist,0
+413,"SQL, NLP, Deep Learning, Power BI, Java, Data Analysis",3,B.Sc,Data Analyst,0
+414,"Machine Learning, NLP, Excel, Data Analysis",1,M.Sc,Machine Learning Engineer,0
+415,"Tableau, Excel, Data Analysis, Java",6,B.Tech,Machine Learning Engineer,0
+416,"Deep Learning, SQL, Power BI, Java, Python, Machine Learning",1,M.Tech,Machine Learning Engineer,0
+417,"Java, NLP, Python",9,M.Sc,Data Scientist,1
+418,"Tableau, NLP, Java, Python, Power BI",2,B.Tech,Data Scientist,1
+419,"Machine Learning, SQL, Power BI",0,M.Sc,Machine Learning Engineer,0
+420,"NLP, Excel, Machine Learning",4,M.Sc,Machine Learning Engineer,1
+421,"SQL, Tableau, Python, Excel, Power BI, Deep Learning",2,M.Tech,Business Analyst,1
+422,"Python, Deep Learning, Java, NLP",4,B.Sc,Machine Learning Engineer,1
+423,"Machine Learning, Excel, Power BI, NLP, Tableau",7,M.Tech,Machine Learning Engineer,1
+424,"Deep Learning, Machine Learning, Data Analysis, SQL, Excel, Tableau",4,B.Tech,Data Analyst,1
+425,"NLP, Excel, Tableau, SQL, Python, Machine Learning",0,B.Tech,Business Analyst,0
+426,"Machine Learning, Deep Learning, Data Analysis",10,M.Tech,Data Scientist,1
+427,"Data Analysis, Excel, Deep Learning, Power BI, Python",1,B.Tech,Business Analyst,0
+428,"Java, Power BI, Deep Learning",7,B.Sc,Data Analyst,0
+429,"Machine Learning, SQL, Data Analysis, Tableau, Deep Learning, NLP",7,B.Sc,Data Scientist,1
+430,"Machine Learning, NLP, Deep Learning",9,B.Sc,Machine Learning Engineer,1
+431,"Power BI, Deep Learning, Python, Data Analysis, NLP, Java",10,B.Sc,Data Analyst,1
+432,"Power BI, Data Analysis, NLP, SQL",1,B.Sc,Machine Learning Engineer,0
+433,"Excel, Tableau, Power BI, Machine Learning, Data Analysis",3,M.Sc,Data Scientist,1
+434,"Power BI, Python, SQL, Tableau, NLP",10,M.Sc,Data Scientist,1
+435,"Python, Deep Learning, Data Analysis",10,B.Sc,Machine Learning Engineer,1
+436,"Data Analysis, Power BI, NLP",5,B.Tech,Machine Learning Engineer,0
+437,"Data Analysis, Power BI, Java",6,M.Sc,Data Scientist,0
+438,"Excel, Machine Learning, Data Analysis, Java",3,B.Tech,Data Analyst,1
+439,"Excel, Java, Machine Learning, Deep Learning",5,B.Tech,Data Scientist,1
+440,"NLP, Machine Learning, Power BI",9,B.Tech,Machine Learning Engineer,1
+441,"Excel, SQL, Data Analysis",9,M.Sc,Business Analyst,0
+442,"Java, Python, Machine Learning",4,M.Tech,Data Scientist,1
+443,"Deep Learning, SQL, Power BI",10,B.Tech,Data Analyst,0
+444,"SQL, Deep Learning, Tableau",4,B.Tech,Business Analyst,0
+445,"Python, Data Analysis, Tableau, Power BI, Machine Learning",7,B.Tech,Machine Learning Engineer,1
+446,"Data Analysis, Deep Learning, Tableau, SQL",7,M.Tech,Machine Learning Engineer,0
+447,"Deep Learning, Excel, SQL",9,M.Sc,Machine Learning Engineer,0
+448,"Python, Excel, NLP",0,M.Sc,Machine Learning Engineer,0
+449,"Deep Learning, Tableau, NLP",5,M.Sc,Business Analyst,0
+450,"NLP, Java, Power BI, Python, Excel",6,M.Tech,Data Analyst,1
+451,"SQL, NLP, Java, Machine Learning, Power BI",6,M.Sc,Machine Learning Engineer,1
+452,"Data Analysis, SQL, Deep Learning",10,M.Tech,Data Scientist,0
+453,"NLP, SQL, Java, Data Analysis, Deep Learning",6,B.Sc,Business Analyst,0
+454,"Deep Learning, Machine Learning, Python, Data Analysis, Power BI, Tableau",2,M.Tech,Machine Learning Engineer,1
+455,"Power BI, SQL, Tableau, Java, Machine Learning, Python",1,B.Tech,Data Analyst,0
+456,"Python, Excel, Power BI",5,M.Tech,Data Analyst,1
+457,"SQL, Deep Learning, Tableau",6,B.Sc,Business Analyst,0
+458,"Java, SQL, Data Analysis, Excel",7,B.Sc,Data Scientist,0
+459,"Machine Learning, Excel, Data Analysis, Deep Learning, Python",2,B.Sc,Machine Learning Engineer,1
+460,"Python, Data Analysis, Power BI, Deep Learning, SQL",9,B.Tech,Business Analyst,1
+461,"NLP, Power BI, Excel, Machine Learning, Tableau, Data Analysis",2,M.Tech,Machine Learning Engineer,1
+462,"NLP, Tableau, Java",0,B.Tech,Machine Learning Engineer,0
+463,"Machine Learning, Tableau, SQL, Data Analysis, Java, Deep Learning",7,M.Tech,Business Analyst,1
+464,"Data Analysis, Tableau, Python",9,B.Tech,Data Analyst,1
+465,"Machine Learning, Java, Excel, Python",6,M.Sc,Machine Learning Engineer,1
+466,"Deep Learning, SQL, Python, Data Analysis, Java",4,M.Tech,Data Scientist,1
+467,"Machine Learning, SQL, Python",4,B.Tech,Business Analyst,1
+468,"Excel, Power BI, Java, Python",5,B.Sc,Machine Learning Engineer,1
+469,"Machine Learning, Tableau, Java, Data Analysis, SQL",3,M.Tech,Data Analyst,1
+470,"NLP, Data Analysis, SQL, Excel, Power BI",9,B.Tech,Machine Learning Engineer,0
+471,"Power BI, NLP, Python",0,M.Tech,Data Analyst,0
+472,"Deep Learning, Python, SQL, Data Analysis, Java",10,B.Tech,Business Analyst,1
+473,"Java, Tableau, Excel, Python",9,B.Sc,Business Analyst,1
+474,"Data Analysis, Excel, Power BI, SQL",4,B.Tech,Machine Learning Engineer,0
+475,"Power BI, Data Analysis, NLP, Python, Java, SQL",9,M.Sc,Data Analyst,1
+476,"Tableau, SQL, Python, NLP, Machine Learning, Excel",2,B.Sc,Machine Learning Engineer,1
+477,"Excel, Machine Learning, Deep Learning",7,B.Sc,Data Scientist,1
+478,"Excel, Java, Machine Learning, Deep Learning",6,M.Sc,Business Analyst,1
+479,"Machine Learning, Data Analysis, Java",7,M.Sc,Business Analyst,1
+480,"Excel, Python, Tableau",2,B.Tech,Machine Learning Engineer,1
+481,"Tableau, Deep Learning, Machine Learning, Power BI",7,M.Tech,Business Analyst,1
+482,"Excel, Data Analysis, Tableau, Power BI",8,B.Tech,Data Scientist,0
+483,"Machine Learning, Java, Excel, Data Analysis, SQL",5,M.Sc,Data Scientist,1
+484,"NLP, Machine Learning, Python",8,M.Tech,Data Analyst,1
+485,"Machine Learning, SQL, Data Analysis, Power BI, Excel, Python",0,M.Tech,Business Analyst,0
+486,"Python, Data Analysis, NLP, Deep Learning",5,M.Tech,Business Analyst,1
+487,"Machine Learning, Deep Learning, Python",2,M.Tech,Business Analyst,1
+488,"Deep Learning, Python, Machine Learning, Power BI",7,B.Tech,Data Scientist,1
+489,"Machine Learning, Deep Learning, NLP, SQL, Power BI, Java",6,M.Sc,Machine Learning Engineer,1
+490,"Data Analysis, Tableau, SQL, Power BI, NLP, Deep Learning",8,M.Tech,Data Analyst,0
+491,"Python, Data Analysis, SQL, Excel, Machine Learning, NLP",9,M.Sc,Business Analyst,1
+492,"Java, Deep Learning, SQL, Python, Tableau",8,B.Sc,Data Analyst,1
+493,"SQL, Machine Learning, Excel, Power BI, Python, Data Analysis",9,B.Sc,Machine Learning Engineer,1
+494,"Java, Python, Machine Learning",0,B.Sc,Business Analyst,0
+495,"SQL, Power BI, Machine Learning, NLP, Excel",5,B.Tech,Data Analyst,1
+496,"SQL, Power BI, Machine Learning, Deep Learning",0,B.Sc,Machine Learning Engineer,0
+497,"Machine Learning, SQL, NLP, Deep Learning, Data Analysis",10,M.Sc,Data Analyst,1
+498,"Tableau, Python, Machine Learning",5,M.Sc,Data Scientist,1
+499,"Machine Learning, Tableau, NLP, SQL, Power BI, Data Analysis",6,M.Sc,Machine Learning Engineer,1
+500,"Tableau, Java, Data Analysis, SQL, Excel",8,B.Tech,Machine Learning Engineer,0
+501,"Java, Tableau, Deep Learning",2,B.Sc,Business Analyst,0
+502,"Machine Learning, Power BI, Python, Tableau, Excel",0,M.Tech,Machine Learning Engineer,0
+503,"NLP, Java, Tableau, Data Analysis, Power BI, SQL",9,B.Tech,Machine Learning Engineer,0
+504,"Python, Excel, SQL",6,M.Sc,Data Scientist,1
+505,"Excel, Java, Machine Learning, SQL, Data Analysis, Deep Learning",7,B.Sc,Business Analyst,1
+506,"Machine Learning, Power BI, Excel, Java, Python, Tableau",4,M.Sc,Machine Learning Engineer,1
+507,"Machine Learning, Tableau, Power BI, Excel",2,B.Sc,Data Analyst,1
+508,"Tableau, Deep Learning, Data Analysis, Machine Learning",7,B.Tech,Machine Learning Engineer,1
+509,"Data Analysis, Java, Deep Learning",4,B.Sc,Machine Learning Engineer,0
+510,"Java, Data Analysis, Machine Learning, SQL, Excel, Python",1,B.Tech,Data Analyst,0
+511,"Deep Learning, Python, Excel, Tableau, Data Analysis, Machine Learning",2,M.Sc,Data Scientist,1
+512,"NLP, Excel, SQL",5,M.Tech,Business Analyst,0
+513,"SQL, Data Analysis, Python, NLP, Java, Power BI",4,M.Tech,Business Analyst,1
+514,"Tableau, Java, NLP, Machine Learning, Power BI, Deep Learning",1,B.Tech,Data Scientist,0
+515,"NLP, Machine Learning, Power BI, Java, Data Analysis",0,B.Sc,Machine Learning Engineer,0
+516,"Python, Tableau, Machine Learning, Java",0,B.Tech,Business Analyst,0
+517,"Excel, Power BI, Java, NLP, SQL",9,B.Tech,Data Scientist,0
+518,"Python, Power BI, NLP, Java, Deep Learning, Data Analysis",0,B.Tech,Business Analyst,0
+519,"Excel, Python, SQL, NLP",4,M.Tech,Machine Learning Engineer,1
+520,"Tableau, Python, Power BI",9,M.Sc,Business Analyst,1
+521,"Python, Tableau, Deep Learning, Data Analysis",3,M.Tech,Data Analyst,1
+522,"Tableau, Python, Data Analysis",10,B.Sc,Data Scientist,1
+523,"Excel, Tableau, NLP",5,M.Sc,Business Analyst,0
+524,"Data Analysis, Java, Python, Excel, Tableau",7,M.Tech,Data Scientist,1
+525,"Machine Learning, SQL, NLP, Python, Deep Learning, Excel",5,B.Sc,Business Analyst,1
+526,"Data Analysis, SQL, Excel, Power BI, Machine Learning",1,B.Tech,Data Scientist,0
+527,"Java, Excel, Deep Learning, Power BI",8,B.Tech,Machine Learning Engineer,0
+528,"Deep Learning, NLP, Tableau",5,M.Sc,Data Analyst,0
+529,"Machine Learning, Tableau, Power BI, Data Analysis",4,M.Sc,Data Analyst,1
+530,"Tableau, Machine Learning, NLP",10,B.Sc,Machine Learning Engineer,1
+531,"NLP, Python, Tableau",6,B.Sc,Business Analyst,1
+532,"Data Analysis, SQL, Deep Learning, Java, Tableau, Power BI",10,B.Sc,Data Analyst,0
+533,"NLP, Excel, Tableau",1,M.Sc,Business Analyst,0
+534,"Data Analysis, Power BI, Java, Tableau, Python",2,B.Tech,Machine Learning Engineer,1
+535,"Machine Learning, Excel, Data Analysis, SQL, Java",4,M.Tech,Machine Learning Engineer,1
+536,"Deep Learning, SQL, Power BI",9,M.Tech,Machine Learning Engineer,0
+537,"Excel, Power BI, Tableau",10,B.Tech,Machine Learning Engineer,0
+538,"Excel, Power BI, Python, Deep Learning, Java",3,M.Tech,Data Scientist,1
+539,"Data Analysis, Tableau, Power BI",9,M.Tech,Machine Learning Engineer,0
+540,"Machine Learning, Deep Learning, Tableau, NLP",1,B.Tech,Business Analyst,0
+541,"SQL, Excel, Power BI, Machine Learning, Tableau",3,B.Tech,Data Scientist,1
+542,"Tableau, NLP, Power BI, Java",1,M.Tech,Data Analyst,0
+543,"Excel, Data Analysis, Tableau",8,M.Sc,Business Analyst,0
+544,"NLP, Python, Java, Data Analysis, Tableau",9,M.Sc,Machine Learning Engineer,1
+545,"Python, Data Analysis, Tableau, Power BI, SQL, Java",1,M.Tech,Data Analyst,0
+546,"Tableau, Deep Learning, SQL, Python, Java, Data Analysis",3,M.Tech,Machine Learning Engineer,1
+547,"Tableau, SQL, NLP, Power BI",0,M.Sc,Business Analyst,0
+548,"Data Analysis, SQL, Excel",10,M.Sc,Data Scientist,0
+549,"SQL, Machine Learning, Tableau, Python, Excel, NLP",4,M.Sc,Data Analyst,1
+550,"Excel, Power BI, Tableau, Deep Learning",5,M.Tech,Business Analyst,0
+551,"Machine Learning, Excel, Tableau",10,B.Tech,Data Analyst,1
+552,"Java, NLP, Tableau, Python, SQL",8,M.Tech,Data Analyst,1
+553,"Java, Tableau, Power BI",10,M.Tech,Business Analyst,0
+554,"Deep Learning, Python, Machine Learning, NLP",8,M.Tech,Data Analyst,1
+555,"Python, Power BI, NLP, Deep Learning",2,M.Tech,Machine Learning Engineer,1
+556,"Data Analysis, SQL, Machine Learning, Python, Power BI, Deep Learning",6,M.Sc,Machine Learning Engineer,1
+557,"Machine Learning, NLP, Power BI, SQL, Data Analysis, Java",4,B.Tech,Machine Learning Engineer,1
+558,"Deep Learning, Data Analysis, NLP, SQL, Tableau",7,B.Tech,Data Scientist,0
+559,"Machine Learning, NLP, SQL",2,B.Tech,Machine Learning Engineer,1
+560,"Java, Power BI, Data Analysis, Excel, Machine Learning",3,M.Sc,Data Analyst,1
+561,"Data Analysis, Tableau, Deep Learning, NLP, SQL, Python",3,B.Sc,Data Scientist,1
+562,"Java, NLP, Excel, Power BI, SQL, Deep Learning",1,B.Sc,Data Scientist,0
+563,"Machine Learning, Java, Python, Tableau",6,M.Sc,Data Analyst,1
+564,"Power BI, NLP, Java, SQL",6,B.Sc,Data Analyst,0
+565,"Deep Learning, NLP, Python, Tableau, Java, Data Analysis",6,M.Tech,Data Scientist,1
+566,"Java, NLP, Power BI, Deep Learning, Data Analysis",1,M.Tech,Business Analyst,0
+567,"NLP, Power BI, Data Analysis, SQL",0,M.Tech,Data Scientist,0
+568,"SQL, Data Analysis, Machine Learning, Power BI, Java, Python",8,B.Tech,Machine Learning Engineer,1
+569,"Machine Learning, Data Analysis, Java, Deep Learning",8,M.Tech,Data Scientist,1
+570,"Power BI, Deep Learning, Python, NLP, Excel",0,M.Sc,Business Analyst,0
+571,"Java, Data Analysis, SQL, Excel, Machine Learning, Power BI",2,M.Sc,Machine Learning Engineer,1
+572,"SQL, Tableau, Data Analysis, Excel, Java, Deep Learning",0,B.Sc,Data Analyst,0
+573,"NLP, SQL, Java",10,B.Sc,Data Analyst,0
+574,"Data Analysis, Power BI, Deep Learning, SQL",5,B.Tech,Business Analyst,0
+575,"Excel, SQL, Deep Learning, NLP",6,B.Sc,Data Scientist,0
+576,"Python, Java, Deep Learning",5,M.Tech,Business Analyst,1
+577,"Data Analysis, Machine Learning, Tableau, SQL",0,M.Tech,Machine Learning Engineer,0
+578,"SQL, Deep Learning, Java, Machine Learning",3,M.Sc,Data Scientist,1
+579,"Deep Learning, Power BI, Machine Learning",2,B.Sc,Business Analyst,1
+580,"Data Analysis, Tableau, Machine Learning, Deep Learning",0,B.Tech,Machine Learning Engineer,0
+581,"Python, Excel, Power BI, SQL",4,M.Sc,Data Scientist,1
+582,"Power BI, Machine Learning, NLP, Java, Data Analysis, Deep Learning",9,B.Sc,Machine Learning Engineer,1
+583,"SQL, Java, NLP, Python, Deep Learning",7,M.Tech,Data Scientist,1
+584,"Deep Learning, Java, Tableau, Excel, SQL",10,M.Tech,Data Analyst,0
+585,"Data Analysis, Java, SQL, Tableau, Excel, Python",3,M.Sc,Data Analyst,1
+586,"Tableau, Python, NLP, Deep Learning, Data Analysis",10,B.Tech,Business Analyst,1
+587,"Python, Data Analysis, SQL, Machine Learning",9,B.Sc,Data Scientist,1
+588,"Deep Learning, Java, Tableau, Python, Power BI, Excel",2,M.Tech,Business Analyst,1
+589,"Excel, Data Analysis, Python",10,B.Sc,Machine Learning Engineer,1
+590,"Power BI, Data Analysis, Python, Tableau, NLP, Machine Learning",8,M.Sc,Data Scientist,1
+591,"Machine Learning, Java, Deep Learning",8,B.Tech,Machine Learning Engineer,1
+592,"Power BI, Machine Learning, Data Analysis, Excel, Deep Learning",1,M.Sc,Data Analyst,0
+593,"NLP, Python, Power BI, Tableau, Machine Learning, Java",3,B.Tech,Data Analyst,1
+594,"Tableau, Power BI, Data Analysis, Java, Python, SQL",6,B.Tech,Machine Learning Engineer,1
+595,"Deep Learning, Data Analysis, Java, Power BI, Python, NLP",10,M.Sc,Machine Learning Engineer,1
+596,"SQL, Machine Learning, Java, Power BI",3,M.Sc,Data Analyst,1
+597,"Python, SQL, Deep Learning",7,M.Tech,Data Analyst,1
+598,"Machine Learning, Data Analysis, Tableau, NLP, Deep Learning, SQL",7,M.Tech,Business Analyst,1
+599,"Data Analysis, NLP, Python",8,M.Tech,Business Analyst,1
+600,"Excel, Machine Learning, Tableau",4,B.Tech,Business Analyst,1
+601,"Data Analysis, Machine Learning, Excel, SQL",10,M.Tech,Machine Learning Engineer,1
+602,"Tableau, NLP, Power BI",0,M.Sc,Business Analyst,0
+603,"Tableau, Python, Machine Learning, Data Analysis, Power BI",7,M.Sc,Data Analyst,1
+604,"Deep Learning, Java, Python, Data Analysis, NLP",4,B.Sc,Machine Learning Engineer,1
+605,"Power BI, Java, Data Analysis",9,M.Sc,Data Scientist,0
+606,"Deep Learning, Power BI, Machine Learning",8,B.Tech,Business Analyst,1
+607,"Data Analysis, NLP, Java, Machine Learning, Python",2,B.Sc,Data Scientist,1
+608,"Power BI, NLP, Python, Java, Deep Learning",9,B.Sc,Business Analyst,1
+609,"SQL, Java, Excel, Machine Learning, NLP",2,M.Sc,Data Analyst,1
+610,"Power BI, NLP, Python, Deep Learning, Excel, SQL",2,B.Tech,Data Scientist,1
+611,"Power BI, Python, Tableau, Excel, Deep Learning",4,B.Sc,Data Scientist,1
+612,"Data Analysis, Tableau, NLP, Machine Learning, Deep Learning, SQL",8,M.Tech,Machine Learning Engineer,1
+613,"Tableau, Power BI, SQL, Deep Learning, Machine Learning, Java",10,B.Sc,Machine Learning Engineer,1
+614,"SQL, NLP, Power BI, Deep Learning, Data Analysis",5,M.Sc,Data Scientist,0
+615,"Excel, SQL, Power BI, Python, Tableau",3,M.Sc,Data Analyst,1
+616,"SQL, Tableau, Excel",0,M.Sc,Data Analyst,0
+617,"Java, Python, Power BI, Machine Learning, Data Analysis, SQL",3,B.Sc,Machine Learning Engineer,1
+618,"Python, NLP, Java, Data Analysis, Excel",4,B.Sc,Machine Learning Engineer,1
+619,"Excel, Deep Learning, Machine Learning, Data Analysis",10,M.Tech,Data Analyst,1
+620,"Python, Power BI, NLP",2,B.Sc,Business Analyst,1
+621,"Java, Data Analysis, Python",1,M.Tech,Business Analyst,0
+622,"Power BI, Machine Learning, Deep Learning",1,B.Sc,Business Analyst,0
+623,"Excel, Deep Learning, Tableau",5,M.Tech,Business Analyst,0
+624,"SQL, Python, Tableau, Excel, Machine Learning, NLP",8,M.Tech,Data Analyst,1
+625,"SQL, Power BI, Deep Learning, Data Analysis, Java, Tableau",5,B.Tech,Data Analyst,0
+626,"Machine Learning, Data Analysis, Tableau, Java, Power BI",2,M.Sc,Data Analyst,1
+627,"Excel, Power BI, NLP",3,B.Sc,Business Analyst,0
+628,"Tableau, Data Analysis, Deep Learning",10,B.Tech,Business Analyst,0
+629,"Power BI, Deep Learning, Excel, Python",0,B.Sc,Business Analyst,0
+630,"Tableau, Python, Deep Learning, Data Analysis, Power BI",6,B.Tech,Business Analyst,1
+631,"SQL, Power BI, Tableau, Deep Learning, NLP, Java",3,B.Sc,Data Scientist,0
+632,"NLP, Power BI, SQL, Data Analysis",3,M.Sc,Business Analyst,0
+633,"SQL, Machine Learning, Data Analysis, NLP, Power BI, Deep Learning",7,B.Sc,Machine Learning Engineer,1
+634,"Power BI, Tableau, SQL, Java, Data Analysis, Deep Learning",1,B.Tech,Business Analyst,0
+635,"Python, Deep Learning, Machine Learning",8,B.Tech,Data Analyst,1
+636,"SQL, Machine Learning, Data Analysis",5,M.Sc,Data Analyst,1
+637,"Python, Excel, Power BI, Machine Learning, NLP",3,B.Tech,Data Scientist,1
+638,"Python, Tableau, Excel, Deep Learning, SQL",1,B.Sc,Data Scientist,0
+639,"NLP, Data Analysis, Java",2,M.Tech,Data Scientist,0
+640,"Tableau, Python, Data Analysis, Deep Learning, Power BI",5,B.Tech,Machine Learning Engineer,1
+641,"Data Analysis, Tableau, NLP",6,B.Tech,Data Analyst,0
+642,"Machine Learning, Tableau, Python",10,B.Tech,Machine Learning Engineer,1
+643,"Power BI, Excel, Data Analysis",3,M.Sc,Business Analyst,0
+644,"Excel, NLP, Java",2,B.Tech,Business Analyst,0
+645,"NLP, Machine Learning, SQL, Excel, Tableau",6,M.Sc,Business Analyst,1
+646,"Tableau, Python, NLP, Excel, Java, Deep Learning",6,B.Tech,Business Analyst,1
+647,"Java, Data Analysis, Machine Learning",6,M.Tech,Data Scientist,1
+648,"Data Analysis, Tableau, Java, Power BI, SQL",0,M.Sc,Machine Learning Engineer,0
+649,"Deep Learning, SQL, Python, Power BI",6,B.Sc,Business Analyst,1
+650,"Python, Java, NLP, SQL",1,B.Tech,Machine Learning Engineer,0
+651,"Machine Learning, NLP, SQL, Python",8,M.Tech,Machine Learning Engineer,1
+652,"Power BI, Machine Learning, SQL, Tableau",6,B.Tech,Machine Learning Engineer,1
+653,"Tableau, Deep Learning, SQL, Data Analysis, Power BI",6,B.Tech,Data Analyst,0
+654,"Data Analysis, Deep Learning, Tableau, Java, NLP, Power BI",6,B.Tech,Data Analyst,0
+655,"Tableau, Power BI, Excel",9,M.Sc,Business Analyst,0
+656,"Data Analysis, Python, Power BI, Tableau, NLP, Deep Learning",0,M.Sc,Business Analyst,0
+657,"Data Analysis, Deep Learning, Java, Excel, NLP, Tableau",9,M.Tech,Data Scientist,0
+658,"Data Analysis, Power BI, Excel, Machine Learning, SQL",7,B.Tech,Business Analyst,1
+659,"NLP, Tableau, Python",8,B.Tech,Data Scientist,1
+660,"Excel, Java, Deep Learning, Tableau",9,B.Tech,Machine Learning Engineer,0
+661,"Deep Learning, NLP, Python, Power BI, Tableau, Machine Learning",0,M.Tech,Data Scientist,0
+662,"NLP, Python, Machine Learning, Power BI, Deep Learning",0,B.Sc,Data Scientist,0
+663,"NLP, Data Analysis, SQL, Java",6,M.Sc,Business Analyst,0
+664,"Machine Learning, Data Analysis, NLP",3,B.Sc,Business Analyst,1
+665,"Excel, NLP, Deep Learning, Python, Tableau, Java",9,B.Tech,Machine Learning Engineer,1
+666,"Python, Java, Data Analysis, Tableau, Power BI",8,B.Tech,Machine Learning Engineer,1
+667,"Excel, Java, SQL, Data Analysis",10,M.Tech,Data Scientist,0
+668,"Power BI, Java, Excel, Data Analysis",6,M.Sc,Business Analyst,0
+669,"Tableau, Deep Learning, Java, Python",5,B.Tech,Data Analyst,1
+670,"Deep Learning, NLP, SQL, Machine Learning",3,M.Tech,Machine Learning Engineer,1
+671,"Python, Machine Learning, Data Analysis, SQL, Deep Learning",5,B.Sc,Data Scientist,1
+672,"Power BI, Python, SQL",1,B.Sc,Business Analyst,0
+673,"Data Analysis, Excel, Power BI",1,B.Tech,Data Scientist,0
+674,"Excel, Python, Tableau",1,B.Tech,Data Scientist,0
+675,"Java, NLP, SQL, Deep Learning",3,B.Sc,Machine Learning Engineer,0
+676,"SQL, Java, Deep Learning",8,B.Sc,Data Analyst,0
+677,"NLP, Java, Python, Machine Learning, SQL, Data Analysis",5,B.Sc,Data Scientist,1
+678,"Deep Learning, Power BI, Python, Java",4,M.Tech,Data Analyst,1
+679,"Deep Learning, Machine Learning, Tableau",7,B.Sc,Data Analyst,1
+680,"SQL, Deep Learning, Tableau",0,M.Sc,Machine Learning Engineer,0
+681,"Tableau, Excel, SQL, Power BI, NLP, Machine Learning",0,M.Tech,Data Scientist,0
+682,"Tableau, Deep Learning, Data Analysis, Python, Machine Learning",5,B.Sc,Business Analyst,1
+683,"Deep Learning, Excel, Tableau, Power BI",5,M.Sc,Business Analyst,0
+684,"Tableau, Data Analysis, Machine Learning",7,B.Sc,Machine Learning Engineer,1
+685,"Tableau, NLP, Excel, SQL, Python, Machine Learning",7,B.Tech,Data Scientist,1
+686,"Excel, Deep Learning, Java",5,M.Tech,Data Scientist,0
+687,"SQL, Python, NLP",6,M.Tech,Data Scientist,1
+688,"NLP, Deep Learning, Python, Data Analysis, SQL, Java",2,B.Sc,Machine Learning Engineer,1
+689,"Machine Learning, Power BI, Tableau, Java, Python, Deep Learning",2,M.Tech,Machine Learning Engineer,1
+690,"Excel, Machine Learning, Power BI, NLP, SQL, Tableau",0,M.Tech,Business Analyst,0
+691,"Deep Learning, Python, Machine Learning, Tableau, Data Analysis, Power BI",10,M.Sc,Data Scientist,1
+692,"Machine Learning, Excel, Tableau, Java",10,M.Sc,Business Analyst,1
+693,"Data Analysis, Tableau, Python, NLP, Machine Learning, Java",1,B.Sc,Business Analyst,0
+694,"NLP, Tableau, Data Analysis, Java, Python, Deep Learning",6,B.Sc,Machine Learning Engineer,1
+695,"Machine Learning, Excel, Data Analysis",9,B.Sc,Data Scientist,1
+696,"Power BI, NLP, Java, Excel, Tableau, Deep Learning",3,B.Sc,Data Analyst,0
+697,"NLP, SQL, Data Analysis, Power BI, Python, Tableau",6,B.Sc,Machine Learning Engineer,1
+698,"Data Analysis, SQL, Deep Learning, Tableau, Machine Learning",2,M.Sc,Machine Learning Engineer,1
+699,"Machine Learning, Deep Learning, Java, Python",10,B.Sc,Data Analyst,1
+700,"Python, Java, Machine Learning, Excel, Tableau",7,M.Tech,Data Scientist,1
+701,"Python, SQL, Machine Learning, Tableau, Deep Learning",10,M.Sc,Data Scientist,1
+702,"Python, Tableau, Java, Machine Learning, NLP, Excel",5,M.Sc,Data Analyst,1
+703,"Power BI, NLP, Data Analysis, Tableau, Machine Learning",0,B.Sc,Business Analyst,0
+704,"Tableau, Power BI, Python",9,B.Sc,Business Analyst,1
+705,"Deep Learning, SQL, Tableau",10,B.Tech,Business Analyst,0
+706,"Deep Learning, Python, SQL, Power BI, NLP",8,B.Tech,Data Analyst,1
+707,"Deep Learning, Data Analysis, Tableau, SQL, NLP",7,B.Tech,Data Scientist,0
+708,"NLP, Java, Power BI, Machine Learning, Data Analysis, Deep Learning",9,M.Tech,Machine Learning Engineer,1
+709,"Deep Learning, Excel, NLP, Java, Data Analysis",6,M.Tech,Data Scientist,0
+710,"Deep Learning, Python, Data Analysis, Java",10,M.Sc,Business Analyst,1
+711,"Power BI, Data Analysis, Python, Machine Learning, SQL, Excel",3,B.Sc,Data Analyst,1
+712,"Machine Learning, Deep Learning, SQL",8,B.Sc,Machine Learning Engineer,1
+713,"NLP, Data Analysis, Python",9,B.Tech,Data Scientist,1
+714,"Tableau, Machine Learning, Data Analysis, NLP, Java, SQL",5,M.Sc,Data Analyst,1
+715,"NLP, SQL, Java, Excel",3,M.Sc,Machine Learning Engineer,0
+716,"SQL, Tableau, Data Analysis, Machine Learning, Excel",10,M.Sc,Business Analyst,1
+717,"Power BI, Machine Learning, Data Analysis",2,M.Tech,Business Analyst,1
+718,"Java, Power BI, Data Analysis",8,B.Sc,Business Analyst,0
+719,"Tableau, Excel, Deep Learning, NLP",7,M.Sc,Business Analyst,0
+720,"Data Analysis, Tableau, Excel, Java",6,B.Sc,Data Analyst,0
+721,"Data Analysis, Tableau, Java, Deep Learning, NLP, Python",9,M.Tech,Machine Learning Engineer,1
+722,"Data Analysis, Tableau, Power BI, Java",0,B.Sc,Machine Learning Engineer,0
+723,"Excel, Data Analysis, Machine Learning, SQL",2,M.Tech,Business Analyst,1
+724,"NLP, Machine Learning, Python, Data Analysis, Deep Learning, Tableau",9,M.Sc,Business Analyst,1
+725,"Python, Excel, Java",9,B.Tech,Business Analyst,1
+726,"Excel, Machine Learning, Python",1,M.Sc,Machine Learning Engineer,0
+727,"Excel, Deep Learning, Power BI, Tableau",7,M.Sc,Business Analyst,0
+728,"NLP, Excel, Data Analysis, Tableau, Deep Learning",4,B.Tech,Data Scientist,0
+729,"Tableau, Data Analysis, Python",9,M.Tech,Data Analyst,1
+730,"Deep Learning, Power BI, Data Analysis, NLP, Python",9,B.Tech,Data Analyst,1
+731,"NLP, Tableau, Deep Learning, Data Analysis, Machine Learning, Java",10,M.Sc,Machine Learning Engineer,1
+732,"Python, NLP, Data Analysis",8,M.Sc,Machine Learning Engineer,1
+733,"Java, Power BI, Python, SQL, Tableau, Deep Learning",2,M.Sc,Data Analyst,1
+734,"Deep Learning, Python, SQL, Power BI, Tableau",1,B.Tech,Machine Learning Engineer,0
+735,"Machine Learning, SQL, Data Analysis, Tableau, Deep Learning, Python",4,B.Sc,Data Analyst,1
+736,"Deep Learning, Tableau, Python",3,B.Tech,Business Analyst,1
+737,"Power BI, Machine Learning, SQL, Java, Python, Data Analysis",5,M.Sc,Data Analyst,1
+738,"NLP, Machine Learning, SQL, Python",8,B.Sc,Data Analyst,1
+739,"Data Analysis, Excel, Deep Learning, Python, Tableau",5,M.Tech,Business Analyst,1
+740,"Tableau, Machine Learning, Deep Learning, NLP",2,B.Sc,Machine Learning Engineer,1
+741,"Python, SQL, Java, Machine Learning, Power BI, Excel",1,B.Sc,Data Scientist,0
+742,"Python, Power BI, Tableau, Deep Learning, Excel, SQL",9,B.Tech,Business Analyst,1
+743,"Data Analysis, Python, Power BI, Deep Learning, SQL, Tableau",9,B.Sc,Machine Learning Engineer,1
+744,"Power BI, SQL, Machine Learning, Deep Learning, NLP, Python",3,B.Sc,Data Scientist,1
+745,"Tableau, Java, SQL, Deep Learning",0,M.Tech,Data Analyst,0
+746,"SQL, Power BI, Data Analysis, Tableau",4,M.Sc,Data Scientist,0
+747,"Power BI, Tableau, Java, NLP, SQL",4,B.Sc,Business Analyst,0
+748,"Machine Learning, Deep Learning, Tableau, Data Analysis, Python",7,B.Sc,Business Analyst,1
+749,"NLP, Machine Learning, Power BI, Deep Learning, Python",6,B.Tech,Business Analyst,1
+750,"Python, NLP, SQL",8,M.Tech,Data Scientist,1
+751,"Deep Learning, Excel, SQL",4,M.Sc,Machine Learning Engineer,0
+752,"Java, Data Analysis, Python, SQL, Power BI, Machine Learning",10,B.Tech,Business Analyst,1
+753,"Java, Power BI, NLP",10,M.Sc,Machine Learning Engineer,0
+754,"Data Analysis, Excel, NLP, Tableau",5,B.Tech,Data Analyst,0
+755,"NLP, Data Analysis, Java, Python",4,B.Sc,Data Scientist,1
+756,"Tableau, Machine Learning, Data Analysis",0,M.Sc,Business Analyst,0
+757,"Tableau, SQL, Data Analysis, Java, Python, Deep Learning",5,B.Sc,Machine Learning Engineer,1
+758,"NLP, Data Analysis, Machine Learning, Excel, Python, Java",0,B.Tech,Data Scientist,0
+759,"NLP, Java, Data Analysis, Deep Learning",9,M.Sc,Data Scientist,0
+760,"NLP, Deep Learning, Power BI, Java, SQL",4,M.Sc,Machine Learning Engineer,0
+761,"Power BI, Java, Machine Learning",9,M.Tech,Machine Learning Engineer,1
+762,"NLP, Power BI, Excel",0,B.Tech,Data Scientist,0
+763,"Java, Power BI, Data Analysis, Deep Learning, Python, Tableau",5,B.Sc,Machine Learning Engineer,1
+764,"Data Analysis, Python, SQL, Machine Learning, Java, Tableau",7,B.Tech,Machine Learning Engineer,1
+765,"Power BI, Excel, Java, SQL",9,B.Sc,Data Scientist,0
+766,"Tableau, Power BI, NLP",7,M.Sc,Machine Learning Engineer,0
+767,"Excel, Tableau, SQL, Power BI",7,B.Sc,Data Analyst,0
+768,"Python, Deep Learning, Data Analysis",0,B.Tech,Data Analyst,0
+769,"Data Analysis, SQL, NLP, Power BI, Excel, Deep Learning",1,M.Sc,Business Analyst,0
+770,"Deep Learning, Excel, Java, Power BI",10,B.Tech,Data Scientist,0
+771,"Data Analysis, Machine Learning, Deep Learning",5,M.Sc,Data Scientist,1
+772,"NLP, Deep Learning, Power BI, Machine Learning, Data Analysis",5,M.Sc,Data Scientist,1
+773,"Java, Tableau, NLP",2,M.Sc,Machine Learning Engineer,0
+774,"Data Analysis, SQL, Java",9,B.Sc,Business Analyst,0
+775,"Power BI, Excel, Data Analysis, NLP",5,B.Tech,Data Scientist,0
+776,"Power BI, SQL, Python, Excel, NLP, Machine Learning",5,B.Sc,Business Analyst,1
+777,"Machine Learning, Java, SQL, NLP, Tableau, Python",8,B.Tech,Machine Learning Engineer,1
+778,"NLP, Tableau, Deep Learning",5,M.Tech,Business Analyst,0
+779,"Tableau, Data Analysis, Power BI, Machine Learning, Deep Learning",10,B.Sc,Data Analyst,1
+780,"Java, NLP, Excel, Deep Learning, Python, Machine Learning",7,M.Sc,Machine Learning Engineer,1
+781,"SQL, Power BI, Python",8,M.Tech,Business Analyst,1
+782,"Power BI, SQL, Data Analysis, Deep Learning",3,M.Tech,Data Analyst,0
+783,"Java, NLP, Power BI, Tableau, Excel, Python",3,B.Sc,Data Scientist,1
+784,"NLP, Deep Learning, Tableau, SQL",10,B.Tech,Business Analyst,0
+785,"Deep Learning, Excel, Tableau",0,M.Tech,Data Scientist,0
+786,"Excel, Data Analysis, NLP",0,B.Tech,Data Analyst,0
+787,"Power BI, Machine Learning, Java, SQL, Excel",4,B.Sc,Business Analyst,1
+788,"Tableau, Excel, NLP, Python",6,B.Tech,Machine Learning Engineer,1
+789,"Python, Deep Learning, Machine Learning, NLP, Java, Excel",6,B.Tech,Machine Learning Engineer,1
+790,"Python, NLP, Tableau, Data Analysis, Excel, Power BI",4,B.Sc,Data Analyst,1
+791,"SQL, Deep Learning, Tableau, Machine Learning",2,B.Tech,Business Analyst,1
+792,"NLP, Java, Excel, Data Analysis, Machine Learning, SQL",3,M.Sc,Business Analyst,1
+793,"Power BI, SQL, Tableau",0,B.Tech,Machine Learning Engineer,0
+794,"Excel, NLP, Deep Learning, Java, Power BI",4,B.Tech,Machine Learning Engineer,0
+795,"Java, Deep Learning, Data Analysis",9,M.Sc,Machine Learning Engineer,0
+796,"Python, Tableau, Machine Learning, NLP",0,B.Sc,Machine Learning Engineer,0
+797,"Machine Learning, NLP, Python, Data Analysis",10,B.Sc,Data Analyst,1
+798,"Python, NLP, Machine Learning",10,M.Sc,Business Analyst,1
+799,"Deep Learning, NLP, Power BI, Excel, Data Analysis, Java",10,B.Sc,Machine Learning Engineer,0
+800,"Power BI, Java, Deep Learning, SQL",4,M.Tech,Data Scientist,0
+801,"NLP, Tableau, Data Analysis",3,M.Tech,Data Scientist,0
+802,"Deep Learning, NLP, Excel, Python, Power BI, Tableau",1,M.Sc,Data Analyst,0
+803,"NLP, SQL, Excel, Python",5,B.Tech,Machine Learning Engineer,1
+804,"Java, Python, Power BI, NLP, Machine Learning, Data Analysis",7,M.Tech,Data Analyst,1
+805,"SQL, Java, Machine Learning, Power BI, Excel, Python",7,B.Sc,Data Scientist,1
+806,"Machine Learning, Tableau, SQL, Data Analysis, Java",3,B.Sc,Machine Learning Engineer,1
+807,"Deep Learning, Excel, Data Analysis",6,B.Sc,Data Analyst,0
+808,"Power BI, Java, Tableau, SQL, NLP",0,B.Sc,Data Scientist,0
+809,"Excel, NLP, Python",9,B.Tech,Data Analyst,1
+810,"NLP, Python, Machine Learning, Data Analysis",8,M.Tech,Data Analyst,1
+811,"Machine Learning, Python, Java",3,B.Tech,Data Scientist,1
+812,"Tableau, Power BI, Python, Deep Learning, Data Analysis, NLP",3,B.Tech,Data Analyst,1
+813,"Machine Learning, Tableau, Java, Python, Power BI",5,M.Tech,Data Analyst,1
+814,"Deep Learning, NLP, Power BI",4,B.Sc,Data Analyst,0
+815,"Machine Learning, Data Analysis, Power BI, Excel, Python",7,B.Sc,Machine Learning Engineer,1
+816,"Python, Tableau, Power BI, Excel, Deep Learning, NLP",10,B.Sc,Business Analyst,1
+817,"Python, Excel, Tableau, Java, Deep Learning, SQL",9,M.Sc,Data Scientist,1
+818,"Java, Power BI, Tableau, Deep Learning, Machine Learning, Python",0,M.Sc,Machine Learning Engineer,0
+819,"SQL, Power BI, Excel, Python, Java",8,B.Sc,Business Analyst,1
+820,"Deep Learning, SQL, Python",8,M.Sc,Data Analyst,1
+821,"Deep Learning, Tableau, SQL, NLP, Java, Power BI",9,M.Sc,Data Scientist,0
+822,"Tableau, Machine Learning, Deep Learning, Excel, Java, Python",5,M.Sc,Data Scientist,1
+823,"Tableau, Data Analysis, Python",10,M.Sc,Machine Learning Engineer,1
+824,"Python, Power BI, Deep Learning, Data Analysis, Machine Learning, SQL",1,M.Sc,Machine Learning Engineer,0
+825,"Python, Machine Learning, Java, Tableau, Deep Learning, NLP",2,M.Tech,Data Scientist,1
+826,"NLP, Java, Python, Excel, Data Analysis, Deep Learning",7,M.Sc,Data Scientist,1
+827,"Data Analysis, Excel, Machine Learning, Java, NLP",5,B.Tech,Data Scientist,1
+828,"Java, Excel, Power BI, Machine Learning",7,M.Tech,Data Scientist,1
+829,"Machine Learning, Power BI, Tableau, Deep Learning, Java",2,B.Tech,Data Scientist,1
+830,"Data Analysis, Excel, Power BI, Java",0,B.Sc,Data Analyst,0
+831,"Python, Machine Learning, SQL, Deep Learning, Power BI, Excel",10,B.Tech,Data Analyst,1
+832,"Excel, NLP, Tableau",0,M.Tech,Machine Learning Engineer,0
+833,"Machine Learning, SQL, Tableau, Power BI, Python, Deep Learning",3,M.Tech,Data Analyst,1
+834,"Excel, NLP, Power BI, Data Analysis, Deep Learning",9,B.Tech,Data Analyst,0
+835,"Excel, SQL, Machine Learning",9,M.Sc,Machine Learning Engineer,1
+836,"Machine Learning, Data Analysis, Excel",4,B.Sc,Business Analyst,1
+837,"Data Analysis, Power BI, Python, SQL, Excel",7,M.Tech,Data Scientist,1
+838,"Deep Learning, Power BI, Data Analysis, Machine Learning, Python",6,B.Tech,Machine Learning Engineer,1
+839,"Data Analysis, Python, Deep Learning, Tableau",2,B.Tech,Data Analyst,1
+840,"NLP, Python, Machine Learning, Tableau",10,M.Tech,Data Scientist,1
+841,"NLP, Deep Learning, SQL, Machine Learning, Excel",1,B.Sc,Data Scientist,0
+842,"Java, Excel, Python, Machine Learning, SQL, Power BI",7,B.Tech,Data Analyst,1
+843,"Power BI, SQL, Python, Data Analysis, Java",0,M.Tech,Business Analyst,0
+844,"NLP, Deep Learning, Java, Machine Learning, Power BI",4,B.Tech,Business Analyst,1
+845,"Python, Data Analysis, Deep Learning, Power BI, Excel",8,B.Sc,Data Analyst,1
+846,"Data Analysis, Java, Power BI, Excel, NLP, Tableau",1,M.Tech,Data Scientist,0
+847,"Python, Data Analysis, Excel, Machine Learning, NLP, Power BI",6,M.Sc,Data Analyst,1
+848,"Data Analysis, Tableau, Python, SQL, NLP",6,M.Sc,Data Analyst,1
+849,"SQL, Data Analysis, Power BI, Java, Tableau",7,B.Sc,Data Analyst,0
+850,"Tableau, NLP, Deep Learning, Machine Learning, Data Analysis",0,M.Sc,Data Analyst,0
+851,"SQL, Data Analysis, Tableau, Power BI, Machine Learning",0,M.Tech,Data Scientist,0
+852,"Java, Python, Power BI, Tableau, Excel",4,B.Tech,Data Analyst,1
+853,"SQL, Deep Learning, Java, Power BI, Tableau, NLP",6,B.Tech,Machine Learning Engineer,0
+854,"SQL, Power BI, Java, Tableau, NLP, Machine Learning",9,B.Tech,Business Analyst,1
+855,"Power BI, Machine Learning, SQL",10,M.Sc,Data Scientist,1
+856,"NLP, Excel, Machine Learning, Tableau, Python",0,M.Sc,Data Scientist,0
+857,"Data Analysis, SQL, Excel",0,M.Tech,Data Analyst,0
+858,"Java, SQL, Python, Excel, Data Analysis, Machine Learning",2,M.Sc,Business Analyst,1
+859,"Excel, Power BI, NLP, Data Analysis, Machine Learning",6,M.Tech,Data Analyst,1
+860,"Tableau, Power BI, Data Analysis, NLP, Excel, Python",10,M.Tech,Data Scientist,1
+861,"SQL, Tableau, Excel, Java, NLP, Machine Learning",9,B.Tech,Data Analyst,1
+862,"Deep Learning, Java, Power BI",0,M.Tech,Data Analyst,0
+863,"Excel, Tableau, SQL, Python",7,B.Sc,Data Analyst,1
+864,"Python, Machine Learning, Deep Learning, NLP",0,M.Tech,Business Analyst,0
+865,"Data Analysis, Power BI, Java, Machine Learning, NLP, Python",8,M.Tech,Data Scientist,1
+866,"Data Analysis, Tableau, Java",5,M.Sc,Machine Learning Engineer,0
+867,"Deep Learning, Power BI, Excel",9,B.Tech,Business Analyst,0
+868,"Python, Tableau, Machine Learning, Deep Learning",5,M.Tech,Data Analyst,1
+869,"SQL, NLP, Python, Deep Learning, Java",2,M.Sc,Machine Learning Engineer,1
+870,"Java, Data Analysis, NLP, Python, Tableau, Excel",3,B.Sc,Data Analyst,1
+871,"Machine Learning, Python, Deep Learning, Excel",6,B.Tech,Data Analyst,1
+872,"Python, Data Analysis, SQL, Java",7,M.Tech,Business Analyst,1
+873,"Tableau, Excel, NLP",8,M.Sc,Machine Learning Engineer,0
+874,"Deep Learning, SQL, Tableau, Power BI, Data Analysis",2,B.Sc,Data Analyst,0
+875,"Machine Learning, Excel, SQL, Deep Learning, NLP",8,M.Tech,Business Analyst,1
+876,"Java, Data Analysis, Power BI, Tableau, Excel",4,M.Sc,Business Analyst,0
+877,"Deep Learning, Power BI, Java, Python, SQL",10,M.Sc,Machine Learning Engineer,1
+878,"Deep Learning, Power BI, Data Analysis",2,M.Sc,Data Analyst,0
+879,"SQL, Excel, Power BI, Machine Learning",4,B.Tech,Data Scientist,1
+880,"Java, Tableau, NLP, Data Analysis",10,B.Tech,Business Analyst,0
+881,"SQL, Java, Tableau, Python, Excel, Data Analysis",1,M.Sc,Business Analyst,0
+882,"Java, Machine Learning, Python, SQL, Data Analysis, Excel",5,M.Tech,Data Analyst,1
+883,"Machine Learning, Data Analysis, NLP",0,M.Tech,Data Analyst,0
+884,"SQL, NLP, Machine Learning, Deep Learning",0,B.Sc,Data Scientist,0
+885,"Data Analysis, Power BI, Machine Learning, SQL, Excel, Java",7,B.Sc,Data Scientist,1
+886,"SQL, Machine Learning, Tableau, Excel, Deep Learning, Java",9,B.Tech,Business Analyst,1
+887,"Machine Learning, Power BI, Excel",6,M.Tech,Data Scientist,1
+888,"Deep Learning, Machine Learning, Java, Python",7,B.Sc,Data Analyst,1
+889,"Data Analysis, SQL, Machine Learning",8,M.Sc,Data Scientist,1
+890,"Data Analysis, Machine Learning, SQL",6,B.Sc,Business Analyst,1
+891,"NLP, Excel, SQL, Deep Learning, Machine Learning, Python",6,B.Tech,Machine Learning Engineer,1
+892,"Machine Learning, Tableau, Power BI, SQL, Data Analysis, Java",1,M.Tech,Data Scientist,0
+893,"Machine Learning, Tableau, Excel, Python, Deep Learning, Data Analysis",2,B.Sc,Data Analyst,1
+894,"Machine Learning, Tableau, NLP",9,M.Sc,Business Analyst,1
+895,"Tableau, SQL, Data Analysis, Python, Power BI",9,M.Sc,Business Analyst,1
+896,"Power BI, Java, SQL, Tableau, Python, Data Analysis",9,M.Sc,Machine Learning Engineer,1
+897,"Machine Learning, Power BI, NLP, Deep Learning, Excel",5,M.Sc,Machine Learning Engineer,1
+898,"Data Analysis, Python, Java, Deep Learning",3,M.Sc,Data Analyst,1
+899,"Deep Learning, Python, Java, Power BI",9,M.Tech,Data Scientist,1
+900,"Power BI, Machine Learning, NLP, Tableau, Python, SQL",3,M.Tech,Data Analyst,1
+901,"NLP, SQL, Java, Power BI, Excel",0,B.Tech,Data Scientist,0
+902,"Power BI, Python, Excel, NLP, Data Analysis",8,B.Tech,Data Scientist,1
+903,"Java, Machine Learning, Deep Learning, Tableau",0,M.Tech,Machine Learning Engineer,0
+904,"Java, Deep Learning, SQL, NLP, Tableau",9,B.Tech,Data Scientist,0
+905,"Power BI, SQL, Tableau, Data Analysis, NLP, Deep Learning",4,M.Tech,Data Analyst,0
+906,"SQL, Data Analysis, NLP, Machine Learning",3,B.Sc,Machine Learning Engineer,1
+907,"Data Analysis, Tableau, Python, Java, Power BI, NLP",2,M.Sc,Machine Learning Engineer,1
+908,"NLP, Deep Learning, Power BI, Python",0,M.Sc,Data Scientist,0
+909,"SQL, Power BI, NLP",1,M.Tech,Business Analyst,0
+910,"Tableau, Machine Learning, Excel, Power BI",7,B.Tech,Machine Learning Engineer,1
+911,"SQL, Tableau, Java, Power BI",7,M.Sc,Data Analyst,0
+912,"NLP, Deep Learning, Power BI, Excel",6,M.Sc,Data Analyst,0
+913,"Excel, NLP, SQL, Power BI",9,M.Sc,Data Analyst,0
+914,"Excel, Power BI, Data Analysis, Deep Learning",9,B.Sc,Business Analyst,0
+915,"Data Analysis, NLP, Java, Power BI",5,B.Tech,Machine Learning Engineer,0
+916,"Excel, Java, Machine Learning",0,B.Sc,Data Scientist,0
+917,"NLP, SQL, Java, Tableau, Data Analysis",9,B.Sc,Data Analyst,0
+918,"Power BI, Deep Learning, Machine Learning, NLP",10,M.Tech,Data Scientist,1
+919,"SQL, Power BI, Java, Deep Learning, NLP, Data Analysis",0,B.Tech,Data Analyst,0
+920,"Excel, Machine Learning, Power BI, Tableau",6,M.Sc,Machine Learning Engineer,1
+921,"Excel, Data Analysis, Python, Tableau, NLP",0,B.Tech,Data Scientist,0
+922,"Power BI, Python, SQL, Tableau",8,B.Sc,Data Analyst,1
+923,"Power BI, SQL, Java, Machine Learning, Python",8,B.Sc,Business Analyst,1
+924,"SQL, Data Analysis, Deep Learning",1,M.Sc,Machine Learning Engineer,0
+925,"Deep Learning, NLP, Power BI, SQL",7,B.Sc,Machine Learning Engineer,0
+926,"Java, Tableau, Power BI, SQL, Machine Learning",1,M.Sc,Data Analyst,0
+927,"Deep Learning, Excel, Tableau",2,B.Sc,Data Scientist,0
+928,"Excel, Power BI, Java",9,B.Sc,Machine Learning Engineer,0
+929,"Python, Machine Learning, Tableau, Excel",2,M.Sc,Data Scientist,1
+930,"Python, Data Analysis, Deep Learning, Java",10,M.Sc,Data Analyst,1
+931,"Data Analysis, Java, Power BI, Python, Excel",8,M.Tech,Business Analyst,1
+932,"Excel, Java, Tableau, Deep Learning",3,M.Tech,Data Scientist,0
+933,"Excel, NLP, Java, Tableau",6,M.Tech,Data Analyst,0
+934,"Tableau, NLP, Python",9,B.Tech,Business Analyst,1
+935,"Power BI, Excel, NLP, Deep Learning, Java, Python",4,M.Sc,Data Analyst,1
+936,"Power BI, SQL, Java",10,B.Sc,Business Analyst,0
+937,"Deep Learning, NLP, Java, Python, Machine Learning, Tableau",9,B.Sc,Machine Learning Engineer,1
+938,"Power BI, Deep Learning, Data Analysis, Excel",5,B.Sc,Business Analyst,0
+939,"NLP, Python, Deep Learning, Data Analysis, Power BI, Machine Learning",0,B.Sc,Data Scientist,0
+940,"SQL, Python, Deep Learning, Java, Excel, Tableau",4,M.Sc,Data Analyst,1
+941,"Excel, Python, Deep Learning, Tableau, Java, Data Analysis",0,M.Sc,Machine Learning Engineer,0
+942,"Power BI, Tableau, Deep Learning, SQL, Java, NLP",1,M.Sc,Business Analyst,0
+943,"Power BI, Java, Excel, NLP",4,M.Sc,Business Analyst,0
+944,"Tableau, Power BI, Python, Excel",6,B.Tech,Business Analyst,1
+945,"Excel, Python, Java",0,B.Tech,Data Analyst,0
+946,"Java, Machine Learning, SQL, NLP, Power BI, Tableau",5,B.Sc,Machine Learning Engineer,1
+947,"Java, Data Analysis, Python, Machine Learning, SQL, Deep Learning",4,B.Sc,Data Analyst,1
+948,"Python, Power BI, SQL",6,B.Sc,Data Scientist,1
+949,"Python, Data Analysis, Power BI",4,M.Sc,Business Analyst,1
+950,"Deep Learning, Excel, Machine Learning, Data Analysis, SQL, Java",1,M.Tech,Data Analyst,0
+951,"Excel, Deep Learning, Java, Tableau, Python, SQL",1,B.Sc,Business Analyst,0
+952,"Excel, SQL, Python, Power BI",3,M.Tech,Business Analyst,1
+953,"Python, SQL, Java, Machine Learning, Deep Learning, Tableau",10,M.Sc,Business Analyst,1
+954,"SQL, Deep Learning, NLP, Power BI",10,B.Sc,Data Scientist,0
+955,"Deep Learning, SQL, NLP, Machine Learning, Excel, Java",2,B.Sc,Business Analyst,1
+956,"Deep Learning, SQL, Power BI, NLP",5,M.Tech,Data Analyst,0
+957,"Excel, Deep Learning, NLP",3,B.Tech,Data Scientist,0
+958,"Machine Learning, Python, Excel, Data Analysis",4,M.Tech,Data Analyst,1
+959,"Deep Learning, Tableau, Machine Learning, Python, Java",6,M.Sc,Machine Learning Engineer,1
+960,"Python, Power BI, NLP, Data Analysis, Machine Learning",3,M.Tech,Machine Learning Engineer,1
+961,"Python, Power BI, Machine Learning, Excel",7,M.Tech,Data Analyst,1
+962,"Machine Learning, Power BI, SQL",9,M.Tech,Machine Learning Engineer,1
+963,"SQL, Tableau, Deep Learning, Java, Power BI, Data Analysis",5,M.Sc,Data Analyst,0
+964,"Tableau, SQL, Data Analysis, Python, Excel, Deep Learning",8,B.Sc,Business Analyst,1
+965,"NLP, Data Analysis, Tableau",3,B.Tech,Data Scientist,0
+966,"Data Analysis, Python, Tableau, SQL, NLP",10,M.Sc,Data Scientist,1
+967,"Power BI, Python, Java",6,B.Tech,Machine Learning Engineer,1
+968,"Data Analysis, Python, Java, SQL",0,B.Tech,Machine Learning Engineer,0
+969,"Tableau, Python, Machine Learning",5,M.Sc,Machine Learning Engineer,1
+970,"SQL, NLP, Tableau, Python, Power BI, Machine Learning",7,B.Tech,Machine Learning Engineer,1
+971,"Machine Learning, NLP, SQL, Excel, Power BI",0,M.Sc,Machine Learning Engineer,0
+972,"SQL, Power BI, Java, Deep Learning, Machine Learning, Data Analysis",4,M.Tech,Data Analyst,1
+973,"Tableau, Data Analysis, Python, Excel",0,M.Tech,Business Analyst,0
+974,"Tableau, Power BI, Java, SQL, NLP, Data Analysis",1,B.Sc,Data Scientist,0
+975,"Python, Machine Learning, Java, Deep Learning, Data Analysis, Excel",0,M.Sc,Machine Learning Engineer,0
+976,"Excel, Machine Learning, Tableau, Java",10,M.Sc,Data Analyst,1
+977,"NLP, SQL, Data Analysis, Java, Deep Learning",9,B.Sc,Machine Learning Engineer,0
+978,"NLP, Machine Learning, Java, SQL, Deep Learning",0,B.Sc,Business Analyst,0
+979,"Tableau, Machine Learning, Java, NLP, Excel, SQL",5,M.Tech,Data Analyst,1
+980,"Power BI, Data Analysis, Python, Excel, Machine Learning",3,M.Sc,Machine Learning Engineer,1
+981,"SQL, Power BI, Java, Python, Excel, Data Analysis",3,B.Tech,Machine Learning Engineer,1
+982,"Power BI, Machine Learning, Data Analysis, Python, SQL",2,M.Sc,Data Scientist,1
+983,"SQL, Excel, NLP",4,B.Tech,Data Scientist,0
+984,"Power BI, NLP, SQL, Data Analysis",5,B.Tech,Data Analyst,0
+985,"Java, Tableau, Python, Excel, Power BI, NLP",1,M.Sc,Data Analyst,0
+986,"Deep Learning, NLP, SQL, Tableau",4,M.Tech,Machine Learning Engineer,0
+987,"Machine Learning, SQL, Power BI, Data Analysis, Java",1,M.Tech,Data Scientist,0
+988,"Tableau, NLP, Machine Learning, SQL",1,B.Sc,Machine Learning Engineer,0
+989,"Power BI, NLP, Deep Learning, Excel",4,M.Sc,Business Analyst,0
+990,"NLP, Data Analysis, Power BI",2,B.Sc,Data Analyst,0
+991,"Machine Learning, Power BI, Java, Data Analysis",6,M.Sc,Machine Learning Engineer,1
+992,"NLP, Power BI, Python, Tableau, Machine Learning, SQL",2,B.Sc,Machine Learning Engineer,1
+993,"Machine Learning, Excel, Java, Deep Learning, Data Analysis, Tableau",10,B.Tech,Data Analyst,1
+994,"Data Analysis, SQL, Deep Learning",2,B.Tech,Business Analyst,0
+995,"Power BI, Machine Learning, Excel, NLP, Tableau",10,M.Tech,Business Analyst,1
+996,"Python, Power BI, Excel, SQL",2,M.Tech,Machine Learning Engineer,1
+997,"Machine Learning, Data Analysis, SQL",4,M.Sc,Machine Learning Engineer,1
+998,"Excel, Data Analysis, NLP, Tableau, Deep Learning, Power BI",10,B.Sc,Data Analyst,0
+999,"Machine Learning, Python, Excel, Power BI",2,B.Tech,Data Scientist,1
+1000,"Machine Learning, Deep Learning, Java",6,M.Tech,Data Analyst,1
