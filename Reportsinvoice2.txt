@@ -1,4 +1,0 @@
-Invoice Number: INV1002
-Vendor: Infosys Ltd
-Date: 2026-05-30
-Amount: 24500
